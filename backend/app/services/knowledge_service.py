@@ -1,305 +1,528 @@
-YªçŠx-®éÜj×¢ëiºÚ+Š§j[h‘éÜ¢éí×m5å:-jZ.¶›­–)Þ³V–×÷'B§6öà¦–×÷'B&P¦g&öÒ6öæ7W'&VçBægWGW&W2–×÷'BF‡&VEööÄW†V7WF÷"Â5ö6ö×ÆWFV@¦g&öÒFFWF–ÖR–×÷'BFFWF–ÖRÂF–ÖW¦öæP¦g&öÒG—–ær–×÷'Bç ¦g&öÒ7ÆÆ6†V×’–×÷'BFVÆWFRÂFW‡@¦g&öÒ7ÆÖöFVÂ–×÷'B6W76–öâÂ6VÆV7@ ¦g&öÒæ6÷&Ræ6öæf–r–×÷'B6WGF–æw0¦g&öÒæ6÷&Ræ6öç7FçG2–×÷'B4ôä4UEõE•U0¦g&öÒæ6÷&RæW'&÷'2–×÷'BFöÖ–äW'&÷ ¦g&öÒæF"–×÷'BVæv–æRÂVç7W&UögG0¦g&öÒæ–çFVw&F–öç2æ÷Væ•öFFW"–×÷'B÷Vä”FFW ¦g&öÒæÖöFVÇ2–×÷'B6WGF–ærÂ6öæ6WBÂ6öæ6WDÆ–2ÂFö7VÖVçBÂFö7VÖVçD6‡Væ²Âw&„VFvRÂw&„æöFRÂ–ævW7F–öä¦ö"Â6V&6„†—7F÷'’Â6V&6„†—7F÷'•6÷W&6P¦g&öÒç7F÷&vRæÆö6Åöf–ÆW2–×÷'BFVÆWFUö÷&–v–æÂÂ6fUö÷&–v–æÀ¦g&öÒçWF–Ç2æ6—FF–öç2–×÷'BÖöW‡FW&æÅö6‡Væ°¦g&öÒçWF–Ç2æ†6†–ær–×÷'B6†#Se÷FW‡@¦g&öÒçWF–Ç2çFW‡B–×÷'BW†6W'BÂæ÷&ÖÆ—¦Uö¶W’Âæ÷&ÖÆ—¦U÷FW‡BÂ7Æ—Eö6‡Væ·0  ¦FVbæ÷r‚’ÓâFFWF–ÖS ¢&WGW&âFFWF–ÖRææ÷r‡F–ÖW¦öæRçWF2  ¦FVb§6öåöÆöB‡fÇVS¢7G"ÂæöæRÂFVfVÇC¢ç’’Óâç“ ¢G'“ ¢&WGW&â§6öâæÆöG2‡fÇVR’–bfÇVRVÇ6RFVfVÇ@¢W†6WB…G—TW'&÷"Â§6öâä¥4ôäFV6öFTW'&÷"“ ¢&WGW&âFVfVÇ@  ¦FVb6WE÷7FW‡6W76–öã¢6W76–öâÂ¦ö#¢–ævW7F–öä¦ö"ÂFö7VÖVçC¢Fö7VÖVçBÂ7FW¢7G"Â&öw&W73¢–çBÂ7FGW3¢7G"Ò''Vææ–ær"’ÓâæöæS ¢¦ö"æ7W'&VçE÷7FWÂ¦ö"ç&öw&W72Â¦ö"ç7FGW2Â¦ö"çWFFVEöBÒ7FWÂ&öw&W72Â7FGW2Âæ÷r‚¢Fö7VÖVçBçWFFVEöBÒæ÷r‚¢6W76–öâæFB†¦ö"¢6W76–öâæFB†Fö7VÖVçB¢6W76–öâæ6öÖÖ—B‚  ¦FVbvWE÷6WGF–ær‡6W76–öã¢6W76–öâÂ¶W“¢7G"’Óâç“ ¢6WGF–ærÒ6W76–öâævWB„6WGF–ærÂ¶W’¢&WGW&â§6öåöÆöB‡6WGF–ærçfÇVUö§6öâÂæöæR’–b6WGF–ærVÇ6RæöæP  ¦FVbWE÷6WGF–ær‡6W76–öã¢6W76–öâÂ¶W“¢7G"ÂfÇVS¢ç’Â6V7&WC¢&ööÂÒfÇ6R’ÓâæöæS ¢6WGF–ærÒ6W76–öâævWB„6WGF–ærÂ¶W’¢–bæ÷B6WGF–æs ¢6WGF–ærÒ6WGF–ær†¶W“Ö¶W’ÂfÇVUö§6öãÖ§6öâæGV×2‡fÇVRÂVç7W&Uö66–“ÔfÇ6R’Â—5÷6V7&WC×6V7&WB¢VÇ6S ¢6WGF–ærçfÇVUö§6öâÂ6WGF–ærçWFFVEöBÂ6WGF–æræ—5÷6V7&WBÒ§6öâæGV×2‡fÇVRÂVç7W&Uö66–“ÔfÇ6R’Âæ÷r‚’Â6V7&W@¢6W76–öâæFB‡6WGF–ær¢6W76–öâæ6öÖÖ—B‚  ¦FVb7&VFUö–ævW7F–öâ‡6W76–öã¢6W76–öâÂ&s¢'—FW2Âf–ÆVæÖS¢7G"ÂF—FÆS¢7G"ÂæöæRÒæöæRÂ6÷W&6UöæÖS¢7G"ÂæöæRÒæöæRÂW‡G&7FVE÷FW‡C¢7G"ÂæöæRÒæöæR’ÓâGWÆU´Fö7VÖVçBÂ–ævW7F–öä¦ö%Ó ¢7Vff—‚Ò"â"²f–ÆVæÖRæÆ÷vW"‚’ç'7Æ—B‚"â"Â•²ÓÒ–b"â"–âf–ÆVæÖRVÇ6R"çG‡B ¢–b7Vff—‚æ÷B–â²"çG‡B"Â"æÖB"Â"çFb'Ó¢7Vff—‚Ò"çG‡B ¢–bW‡G&7FVE÷FW‡B—2æ÷BæöæS ¢6öçFVçBÒW‡G&7FVE÷FW‡@¢VÇ6S ¢G'“ ¢6öçFVçBÒ&ræFV6öFR‚'WFbÓ‚×6–r"¢W†6WBVæ–6öFTFV6öFTW'&÷# ¢6öçFVçBÒ&ræFV6öFR‚&7“C’"ÂW'&÷'3Ò'&WÆ6R"¢6öçFVçBÒæ÷&ÖÆ—¦U÷FW‡B†6öçFVçB¢–bæ÷B6öçFVçC ¢&—6RFöÖ–äW'&÷"‚$TÕE•ôDô5TÔTåB"Â.ºËŽÈIÂ¸+NÉªžÉÛB»˜NÉkBÉèŽÈ«^¸¸Ž¸ºBâ"ÂC#"¢6öçFVçEö†6‚Ò6†#Se÷FW‡B†6öçFVçB¢GWÆ–6FRÒ6W76–öâæW†V2‡6VÆV7B„Fö7VÖVçB’çv†W&R„Fö7VÖVçBæ6öçFVçEö†6‚ÓÒ6öçFVçEö†6‚ÂFö7VÖVçBæFVÆWFVEöBæ—5ò„æöæR’’’æf—'7B‚¢†5öÖFW&–Æ—¦VEöw&‚ÒfÇ6P¢–bGWÆ–6FS ¢†5öFö7VÖVçEöæöFRÒ6W76–öâæW†V2‡6VÆV7B„w&„æöFRæ–B’çv†W&R„w&„æöFRæFö7VÖVçEö–BÓÒGWÆ–6FRæ–B’’æf—'7B‚’—2æ÷BæöæP¢6öæ6WEöæöFUö–G2Ò6VÆV7B„w&„æöFRæ–B’çv†W&R„w&„æöFRææöFU÷G—RÓÒ&6öæ6WB"¢†5ö6öæ6WEöVFvRÒ6W76–öâæW†V2‡6VÆV7B„w&„VFvRæ–B’æ¦ö–â„Fö7VÖVçD6‡Væ²Âw&„VFvRæWf–FVæ6Uö6‡Væµö–BÓÒFö7VÖVçD6‡Væ²æ–B’çv†W&R„Fö7VÖVçD6‡Væ²æFö7VÖVçEö–BÓÒGWÆ–6FRæ–BÂ„w&„VFvRç6÷W&6UöæöFUö–Bæ–åò†6öæ6WEöæöFUö–G2’Âw&„VFvRçF&vWEöæöFUö–Bæ–åò†6öæ6WEöæöFUö–G2’’’’æf—'7B‚’—2æ÷BæöæP¢†5öÖFW&–Æ—¦VEöw&‚Ò†5öFö7VÖVçEöæöFRæB†5ö6öæ6WEöVFvP¢–bGWÆ–6FRæBGWÆ–6FRæ–ævW7E÷7FGW2æ÷B–â²&f–ÆVB"Â&G&gB"Â'&VG’'Ó ¢&—6RFöÖ–äW'&÷"‚$EUÄ”4DUôDô5TÔTåB"Â.«	žÉØ¸+NÉªžÉÙ‚Ééº8Î«ÉÛNºû‚ÊÉê^¹	ŽÉkBÉèŽÈ«^¸¸Ž¸ºBâ"ÂC’¢–bGWÆ–6FRæBGWÆ–6FRæ–ævW7E÷7FGW2ÓÒ'&VG’"æB†5öÖFW&–Æ—¦VEöw&ƒ ¢&—6RFöÖ–äW'&÷"‚$EUÄ”4DUôDô5TÔTåB"Â.«	žÉØ¸+NÉªžÉÙ‚Ééº8Î«ÉÛNºû‚ÊÉê^¹	ŽÉkBÉèŽÈ«^¸¸Ž¸ºBâ"ÂC’¢–bGWÆ–6FS ¢G'“ ¢FVÆWFUö÷&–v–æÂ†GWÆ–6FRæ÷&–v–æÅ÷F‚¢W†6WB„õ4W'&÷"ÂfÇVTW'&÷"“ ¢70¢GWÆ–6FRæFVÆWFVEöBÒæ÷r‚¢GWÆ–6FRæ–ævW7E÷7FGW2Ò&FVÆWFVB ¢GWÆ–6FRçWFFVEöBÒæ÷r‚¢6W76–öâæFB†GWÆ–6FR¢6W76–öâæ6öÖÖ—B‚¢2f–ÆVBö–æ6ö×ÆWFRGWÆ–6FRÖ’Ç&VG’†fR6‡Væ·2÷"w&€¢2ÖFW&–ÂâG&VB&WÆ6VÖVçB26÷W&6RFVÆWF–öâ6òæòöÆBWf–FVæ6P¢2VFvR÷"÷'†â6öæ6WB&VÖ–ç2–âF†RæWrw&‚à¢6ÆVçWöFVÆWFVEöFö7VÖVçB‡6W76–öâÂGWÆ–6FRæ–B÷"¢6W76–öâæ6öÖÖ—B‚¢Fö7VÖVçBÒFö7VÖVçB‡F—FÆSÒ‡F—FÆR÷"f–ÆVæÖRç'7Æ—B‚"â"Â•³Ò•³£#ÒÂ6÷W&6UöæÖSÒ‡6÷W&6UöæÖR÷"f–ÆVæÖR•³£3ÒÂ6÷W&6Uöf÷&ÖC×7Vff—…³¥ÒÂ÷&–v–æÅ÷FƒÒ'VæF–ær"Â6öçFVçCÖ6öçFVçBÂ6öçFVçEö†6ƒÖ6öçFVçEö†6‚Â6öçFVçEö6†'3ÖÆVâ†6öçFVçB’Â–ævW7E÷7FGW3Ò&G&gB"¢6W76–öâæFB†Fö7VÖVçB¢6W76–öâæfÇW6‚‚¢&VÆF—fU÷F‚ÂòÒ6fUö÷&–v–æÂ†Fö7VÖVçBçV&Æ–5ö–BÂ7Vff—‚Â&r¢Fö7VÖVçBæ÷&–v–æÅ÷F‚Ò&VÆF—fU÷F€¢Fö7VÖVçBçWFFVEöBÒæ÷r‚¢¦ö"Ò–ævW7F–öä¦ö"†Fö7VÖVçEö–CÖFö7VÖVçBæ–B÷"Â¦ö%÷G—SÒ&–ævW7B"Â7FGW3Ò'VWVVB"Â7W'&VçE÷7FWÒ'fÆ–FF–ær"¢6W76–öâæFB†¦ö"¢6W76–öâæ6öÖÖ—B‚¢6W76–öâç&Vg&W6‚†Fö7VÖVçB¢6W76–öâç&Vg&W6‚†¦ö"¢&WGW&âFö7VÖVçBÂ¦ö   ¦FVb'Våö–ævW7F–öâ†¦ö%÷V&Æ–5ö–C¢7G"’ÓâæöæS ¢v—F‚6W76–öâ†Væv–æR’26W76–öã ¢¦ö"Ò6W76–öâæW†V2‡6VÆV7B„–ævW7F–öä¦ö"’çv†W&R„–ævW7F–öä¦ö"çV&Æ–5ö–BÓÒ¦ö%÷V&Æ–5ö–B’’æf—'7B‚¢–bæ÷B¦ö"÷"¦ö"ç7FGW2æ÷B–â²'VWVVB"Â''Vææ–ær'Ó ¢&WGW&à¢Fö7VÖVçBÒ6W76–öâævWB„Fö7VÖVçBÂ¦ö"æFö7VÖVçEö–B¢–bæ÷BFö7VÖVçC ¢&WGW&à¢G'“ ¢¦ö"ç7FGW2Â¦ö"ç7F'FVEöBÂ¦ö"æGFV×BÒ''Vææ–ær"Âæ÷r‚’Â¦ö"æGFV×B²¢Fö7VÖVçBæ–ævW7E÷7FGW2Ò&æÇ—¦–ær ¢6W76–öâæFB†¦ö"“²6W76–öâæFB†Fö7VÖVçB“²6W76–öâæ6öÖÖ—B‚¢6WE÷7FW‡6W76–öâÂ¦ö"ÂFö7VÖVçBÂ'7F÷&–æu÷6÷W&6R"Â¢6WE÷7FW‡6W76–öâÂ¦ö"ÂFö7VÖVçBÂ&6‡Væ¶–ær"Â#R¢2&RÖ–ævW7F–öâ&WÆ6W2F†R6÷W&6Rw26‡Væ·2â&VÖ÷fRWfW'’VFvP¢2Wf–FVæ6VB'’F†RöÆB6‡Væ·2f—'7C²6öæ6WB×FòÖ6öæ6WBVFvW2Fð¢2æ÷BF÷V6‚Fö7VÖVçBæöFRÂ6òFVÆWF–æröæÇ’öÆBw&‚æöFW0¢2v÷VÆBÆVfR7FÆR&VÆF–öç6†—2&V†–æBà¢öÆEö6‡Væµö–G2Ò¶6‡Væ²æ–Bf÷"6‡Væ²–â6W76–öâæW†V2‡6VÆV7B„Fö7VÖVçD6‡Væ²’çv†W&R„Fö7VÖVçD6‡Væ²æFö7VÖVçEö–BÓÒFö7VÖVçBæ–B’’æÆÂ‚’–b6‡Væ²æ–EÐ¢–böÆEö6‡Væµö–G3 ¢6W76–öâæW†V2†FVÆWFR„w&„VFvR’çv†W&R„w&„VFvRæWf–FVæ6Uö6‡Væµö–Bæ–åò†öÆEö6‡Væµö–G2’’¢6W76–öâæW†V2†FVÆWFR„Fö7VÖVçD6‡Væ²’çv†W&R„Fö7VÖVçD6‡Væ²æFö7VÖVçEö–BÓÒFö7VÖVçBæ–B’¢–V6W2Ò7Æ—Eö6‡Væ·2†Fö7VÖVçBæ6öçFVçBÂ6WGF–æw2æ6‡Væµ÷6—¦Uö6†'2Â6WGF–æw2æ6‡Væµö÷fW&Æö6†'2¢6‡Væ·3¢Æ—7E´Fö7VÖVçD6‡VæµÒÒµÐ¢f÷"–V6R–â–V6W3 ¢6‡Væ²ÒFö7VÖVçD6‡Væ²†Fö7VÖVçEö–CÖFö7VÖVçBæ–B÷"Â÷&F–æÃÖ–çB‡–V6U²&÷&F–æÂ%Ò’Â7F'Eö6†#Ö–çB‡–V6U²'7F'Eö6†"%Ò’ÂVæEö6†#Ö–çB‡–V6U²&VæEö6†"%Ò’ÂFW‡C×7G"‡–V6U²'FW‡B%Ò’Âæ÷&ÖÆ—¦VE÷FW‡CÖæ÷&ÖÆ—¦U÷FW‡B‡7G"‡–V6U²'FW‡B%Ò’’Â6öçFVçEö†6ƒ×6†#Se÷FW‡B‡7G"‡–V6U²'FW‡B%Ò’’¢6W76–öâæFB†6‡Væ²“²6‡Væ·2æVæB†6‡Væ²¢6W76–öâæ6öÖÖ—B‚¢f÷"6‡Væ²–â6‡Væ·3¢6W76–öâç&Vg&W6‚†6‡Væ²¢FFW"Ò÷Vä”FFW"‚¢fV7F÷%ö–BÒ6WGF–æw2æ÷Væ•÷fV7F÷%÷7F÷&Uö–B÷"vWE÷6WGF–ær‡6W76–öâÂ'fV7F÷%÷7F÷&Uö–B"¢–bFFW"æ6öæf–wW&VC ¢6WE÷7FW‡6W76–öâÂ¦ö"ÂFö7VÖVçBÂ'WÆöF–ær"Â3R¢fV7F÷%ö–BÒFFW"æVç7W&U÷fV7F÷%÷7F÷&R‡fV7F÷%ö–B¢–bæ÷B6WGF–æw2æ÷Væ•÷fV7F÷%÷7F÷&Uö–C¢WE÷6WGF–ær‡6W76–öâÂ'fV7F÷%÷7F÷&Uö–B"ÂfV7F÷%ö–B¢&W7VÇBÒFFW"çWÆöEöæEö–æFW‚‡6WGF–æw2æFFöF—"òFö7VÖVçBæ÷&–v–æÅ÷F‚ÂfV7F÷%ö–B¢Fö7VÖVçBæ÷Væ•öf–ÆUö–BÒ&W7VÇBævWB‚&f–ÆUö–B"¢Fö7VÖVçBçfV7F÷%÷7F÷&Uö–BÒfV7F÷%ö–@¢Fö7VÖVçBçfV7F÷%÷7F÷&Uöf–ÆUö–BÒ&W7VÇBævWB‚'fV7F÷%÷7F÷&Uöf–ÆUö–B"¢Fö7VÖVçBçfV7F÷%÷7F÷&Uöf–ÆU÷7FGW2Ò&W7VÇBævWB‚'7FGW2"¢6WE÷7FW‡6W76–öâÂ¦ö"ÂFö7VÖVçBÂ'v—F–æuö–æFW‚"ÂSR¢6WE÷7FW‡6W76–öâÂ¦ö"ÂFö7VÖVçBÂ&W‡G&7F–ær"ÂcR¢–bFFW"æ6öæf–wW&VC ¢2W‡G&7F–öâ—2æWGv÷&²Ö&÷VæBâ'Vâ6ÖÆÂ&÷VæFVBçVÖ&W"ö`¢2–æFWVæFVçB6‡Væ²&WVW7G26öæ7W'&VçFÇ’Âv†–ÆR¶VW–ærÆÀ¢2D"w&—FW2æB&öw&W72WFFW2–âF†—26W76–öâ÷F‡&VBà¢6‡VæµöæÇ—6W5ö'•ö÷&F–æÃ¢F–7E¶–çBÂF–7E·7G"Âç•ÕÒÒ·Ð¢v÷&¶W%ö6÷VçBÒÖ–â‡6WGF–æw2æ÷Væ•öW‡G&7F–öå÷v÷&¶W'2ÂÖ‚†ÆVâ†6‡Væ·2’Â’ ¢FVbW‡G&7Eö6‡Væ²†6‡Væ³¢Fö7VÖVçD6‡Væ²’ÓâGWÆU¶–çBÂF–7E·7G"Âç•ÕÓ ¢FFW%öf÷%ö6‡Væ²Ò÷Vä”FFW"‚¢W‡G&7F–öâÒFFW%öf÷%ö6‡Væ²æW‡G&7B†6‡Væ²çFW‡BÂ6÷W&6Uö÷&F–æÃÖ6‡Væ²æ÷&F–æÂ¢6öæ6WEö—FV×2ÒW‡G&7F–öâævWB‚&6öæ6WG2"ÂµÒ’–b—6–ç7Fæ6R†W‡G&7F–öâævWB‚&6öæ6WG2"’ÂÆ—7B’VÇ6RµÐ¢26V6öæB6ÆÂ—2–çFVçF–öæÆÇ’FF—fS¢FVç6RFö7VÖVçG2vW@¢2&WGFW"&V6ÆÂv—F†÷WBF÷V&Æ–ærÆFVæ7’f÷"Ç&VG’×&–6‚6‡Væ·2à¢W‡V7FVEöÖ–æ–×VÒÒÖ‚€¢6WGF–æw2æ÷Væ•öW‡G&7F–öåövöÖ–åö6öæ6WG2À¢Ö–âƒ#BÂÆVâ†6‡Væ²çFW‡Bç7G&—‚’’òò5ó’À¢¢–b€¢6WGF–æw2æ÷Væ•öW‡G&7F–öåöv÷70¢æBÆVâ†6‡Væ²çFW‡Bç7G&—‚’’ãÒ6WGF–æw2æ÷Væ•öW‡G&7F–öåövöÖ–åö6†'0¢æBÆVâ†6öæ6WEö—FV×2’ÂW‡V7FVEöÖ–æ–×VÐ¢“ ¢W†—7F–æuöæÖW2Ò°¢7G"†—FVÒævWB†f–VÆBÂ""’’ç7G&—‚¢f÷"—FVÒ–â6öæ6WEö—FV×0¢f÷"f–VÆB–â‚&6æöæ–6ÅöæÖR"Â&¶÷&VåöæÖR"Â&VævÆ—6…öæÖR"Â&7&öç–Ò"¢–b7G"†—FVÒævWB†f–VÆBÂ""’’ç7G&—‚¢Ð¢vÒFFW%öf÷%ö6‡Væ²æW‡G&7Eöv†6‡Væ²çFW‡BÂW†—7F–æuöæÖW2Â6÷W&6Uö÷&F–æÃÖ6‡Væ²æ÷&F–æÂ¢W‡G&7F–öå²&6öæ6WG2%ÒÒ6öæ6WEö—FV×2²†vævWB‚&6öæ6WG2"ÂµÒ’–b—6–ç7Fæ6R†vævWB‚&6öæ6WG2"’ÂÆ—7B’VÇ6RµÒ¢W‡G&7F–öå²'&VÆF–öç2%ÒÒ†W‡G&7F–öâævWB‚'&VÆF–öç2"ÂµÒ’–b—6–ç7Fæ6R†W‡G&7F–öâævWB‚'&VÆF–öç2"’ÂÆ—7B’VÇ6RµÒ’²†vævWB‚'&VÆF–öç2"ÂµÒ’–b—6–ç7Fæ6R†vævWB‚'&VÆF–öç2"’ÂÆ—7B’VÇ6RµÒ¢&WGW&â6‡Væ²æ÷&F–æÂÂW‡G&7F–öà ¢v—F‚F‡&VEööÄW†V7WF÷"†Ö…÷v÷&¶W'3×v÷&¶W%ö6÷VçBÂF‡&VEöæÖU÷&Vf—ƒÒ&W‡G&7B"’2W†V7WF÷# ¢gWGW&W2Ò¶W†V7WF÷"ç7V&Ö—B†W‡G&7Eö6‡Væ²Â6‡Væ²’f÷"6‡Væ²–â6‡Væ·5Ð¢f÷"–æFW‚ÂgWGW&R–âVçVÖW&FR†5ö6ö×ÆWFVB†gWGW&W2’Â7F'CÓ“ ¢÷&F–æÂÂW‡G&7F–öâÒgWGW&Rç&W7VÇB‚¢6‡VæµöæÇ—6W5ö'•ö÷&F–æÅ¶÷&F–æÅÒÒW‡G&7F–öà¢&öw&W72ÒcR²–çB‚†–æFW‚òÖ‚†ÆVâ†6‡Væ·2’Â’’¢"¢6WE÷7FW‡6W76–öâÂ¦ö"ÂFö7VÖVçBÂ&W‡G&7F–ær"Â&öw&W72¢6‡VæµöæÇ—6W2Ò¶6‡VæµöæÇ—6W5ö'•ö÷&F–æÅ¶6‡Væ²æ÷&F–æÅÒf÷"6‡Væ²–â6‡Væ·5Ð¢æÇ—6—2ÒÖW&vUö6‡VæµöæÇ—6W2†Fö7VÖVçBÂ6‡VæµöæÇ—6W2¢VÇ6S ¢æÇ—6—2ÒfÆÆ&6µöæÇ—6—2†Fö7VÖVçB¢æÇ—6—2ÒfÆ–FFUöæÇ—6—2†æÇ—6—2Â6‡Væ·2¢¦ö"ç&Wf–Wuö§6öâÒ§6öâæGV×2†Ö¶U÷&Wf–Wr†Fö7VÖVçBÂ6‡Væ·2ÂæÇ—6—2’ÂVç7W&Uö66–“ÔfÇ6R¢¦ö"ç7FGW2Â¦ö"æ7W'&VçE÷7FWÂ¦ö"ç&öw&W72Ò'&Wf–Wu÷&VG’"Â'&VG’"Âƒ ¢Fö7VÖVçBæ–ævW7E÷7FGW2Ò'&Wf–Wu÷&VG’ ¢¦ö"çWFFVEöBÒFö7VÖVçBçWFFVEöBÒæ÷r‚¢6W76–öâæFB†¦ö"“²6W76–öâæFB†Fö7VÖVçB“²6W76–öâæ6öÖÖ—B‚¢W†6WBFöÖ–äW'&÷"2W†3 ¢f–Åö¦ö"‡6W76–öâÂ¦ö"ÂFö7VÖVçBÂW†2æ6öFRÂW†2æÖW76vR¢W†6WBW†6WF–öã ¢f–Åö¦ö"‡6W76–öâÂ¦ö"ÂFö7VÖVçBÂ$”åDU$äÅôU%$õ""Â.Ééº8ÂË)ŽºjÂÊIÉŠNºYŽ«»	ÎÈ9ÞÙhŽÈ«^¸¸Ž¸ºBâ"  ¦FVb6öæf—&Õö–ævW7F–öâ‡6W76–öã¢6W76–öâÂ¦ö#¢–ævW7F–öä¦ö"ÂF—FÆS¢7G"Â7VÖÖ'“¢7G"Â–æ6ÇVFVC¢Æ—7E·7G%ÒÂW†6ÇVFVE÷&VÆF–öç3¢Æ—7E·7G%Ò’ÓâæöæS ¢–b¦ö"ç7FGW2ÓÒ'7V66VVFVB# ¢&WGW&à¢–b¦ö"ç7FGW2Ò'&Wf–Wu÷&VG’# ¢&—6RFöÖ–äW'&÷"‚%dÄ”DD”ôåôU%$õ""Â.»hNÈIÒ«(Øj«É˜Nº8Î¹	ÂÉéÉx^ºxÂÊÉê^ÙZÈ‰‚ÉèŽÈ«^¸¸Ž¸ºBâ"ÂC’¢Fö7VÖVçBÒ6W76–öâævWB„Fö7VÖVçBÂ¦ö"æFö7VÖVçEö–B¢–bæ÷BFö7VÖVçB÷"Fö7VÖVçBæFVÆWFVEöC ¢&—6RFöÖ–äW'&÷"‚$äõEôdõTäB"Â.ºËŽÈIÎº[ÂËîÉØBÈ‰‚ÉxnÈ«^¸¸Ž¸ºBâ"ÂCB¢&Wf–WrÒ§6öåöÆöB†¦ö"ç&Wf–Wuö§6öâÂ·Ò¢æÇ—6—2Ò&Wf–WrævWB‚&æÇ—6—2"Â·Ò¢æÇ—6—5²'F—FÆR%ÒÂæÇ—6—5²'7VÖÖ'’%ÒÒF—FÆRÂ7VÖÖ'¢–b–æ6ÇVFVC ¢æÇ—6—5²&6öæ6WG2%ÒÒ¶—FVÒf÷"—FVÒ–âæÇ—6—2ævWB‚&6öæ6WG2"ÂµÒ’–b—FVÒævWB‚'FV×ö¶W’"’–â–æ6ÇVFVB÷"—FVÒævWB‚&¶W’"’–â–æ6ÇVFVEÐ¢æÇ—6—5²'&VÆF–öç2%ÒÒ¶—FVÒf÷"—FVÒ–âæÇ—6—2ævWB‚'&VÆF–öç2"ÂµÒ’–b—FVÒævWB‚'FV×ö¶W’"’æ÷B–âW†6ÇVFVE÷&VÆF–öç2æB—FVÒævWB‚&¶W’"’æ÷B–âW†6ÇVFVE÷&VÆF–öç5Ð¢¦ö"ç7FGW2Â¦ö"æ7W'&VçE÷7FWÂ¦ö"ç&öw&W72Ò''Vææ–ær"Â'7F÷&–ær"ÂƒP¢Fö7VÖVçBæ–ævW7E÷7FGW2ÂFö7VÖVçBçF—FÆRÂFö7VÖVçBç7VÖÖ'’Ò'7F÷&–ær"ÂF—FÆRÂ7VÖÖ'¢6W76–öâæFB†¦ö"“²6W76–öâæFB†Fö7VÖVçB“²6W76–öâæ6öÖÖ—B‚¢Ç•öæÇ—6—2‡6W76–öâÂFö7VÖVçBÂæÇ—6—2¢Fö7VÖVçBææÇ—6—5ö§6öâÒ§6öâæGV×2†æÇ—6—2ÂVç7W&Uö66–“ÔfÇ6R¢Fö7VÖVçBæ–ævW7E÷7FGW2ÂFö7VÖVçBçWFFVEöBÒ'&VG’"Âæ÷r‚¢¦ö"ç7FGW2Â¦ö"æ7W'&VçE÷7FWÂ¦ö"ç&öw&W72Â¦ö"æf–æ—6†VEöBÒ'7V66VVFVB"Â'&VG’"ÂÂæ÷r‚¢¦ö"çWFFVEöBÒæ÷r‚¢&Vg&W6…ö6öæ6WEöÆ—fVæW72‡6W76–öâ¢7–æ5öFö7VÖVçEögG2‡6W76–öâÂFö7VÖVçB¢6W76–öâæFB†Fö7VÖVçB“²6W76–öâæFB†¦ö"“²6W76–öâæ6öÖÖ—B‚  ¦FVbÇ•öæÇ—6—2‡6W76–öã¢6W76–öâÂFö7VÖVçC¢Fö7VÖVçBÂæÇ—6—3¢F–7E·7G"Âç•Ò’ÓâæöæS ¢öÆEöæöFW2Ò6W76–öâæW†V2‡6VÆV7B„w&„æöFR’çv†W&R„w&„æöFRæFö7VÖVçEö–BÓÒFö7VÖVçBæ–B’’æÆÂ‚¢öÆEöæöFUö–G2Ò¶æöFRæ–Bf÷"æöFR–âöÆEöæöFW2–bæöFRæ–EÐ¢–böÆEöæöFUö–G3 ¢6W76–öâæW†V2†FVÆWFR„w&„VFvR’çv†W&R„w&„VFvRç6÷W&6UöæöFUö–Bæ–åò†öÆEöæöFUö–G2’Âw&„VFvRçF&vWEöæöFUö–Bæ–åò†öÆEöæöFUö–G2’’¢6W76–öâæW†V2†FVÆWFR„w&„æöFR’çv†W&R„w&„æöFRæFö7VÖVçEö–BÓÒFö7VÖVçBæ–B’¢6‡Væ·2Ò6W76–öâæW†V2‡6VÆV7B„Fö7VÖVçD6‡Væ²’çv†W&R„Fö7VÖVçD6‡Væ²æFö7VÖVçEö–BÓÒFö7VÖVçBæ–B’æ÷&FW%ö'’„Fö7VÖVçD6‡Væ²æ÷&F–æÂ’’æÆÂ‚¢Fö7VÖVçEöæöFRÒw&„æöFR†æöFU÷G—SÒ&Fö7VÖVçB"ÂFö7VÖVçEö–CÖFö7VÖVçBæ–BÂ—5÷f—6–&ÆUöFVfVÇCÕG'VR¢6W76–öâæFB†Fö7VÖVçEöæöFR“²6W76–öâæfÇW6‚‚¢6‡VæµöæöFW3¢F–7E¶–çBÂw&„æöFUÒÒ·Ð¢–bÆVâ†6‡Væ·2’â ¢f÷"6‡Væ²–â6‡Væ·3 ¢æöFRÒw&„æöFR†æöFU÷G—SÒ&6‡Væ²"ÂFö7VÖVçEö–CÖFö7VÖVçBæ–BÂ6‡Væµö–CÖ6‡Væ²æ–BÂ—5÷f—6–&ÆUöFVfVÇCÔfÇ6R¢6W76–öâæFB†æöFR“²6W76–öâæfÇW6‚‚“²6‡VæµöæöFW5¶6‡Væ²æ÷&F–æÅÒÒæöFP¢6W76–öâæFB„w&„VFvR‡6÷W&6UöæöFUö–CÖFö7VÖVçEöæöFRæ–BÂF&vWEöæöFUö–CÖæöFRæ–BÂ&VÆF–öå÷G—SÒ&6öçF–ç2"ÂÆ&VÃÒ&6öçF–ç2"ÂWf–FVæ6Uö6‡Væµö–CÖ6‡Væ²æ–BÂWf–FVæ6U÷FW‡CÖW†6W'B†6‡Væ²çFW‡BÂ#’Â6öæf–FVæ6SÓÂ÷&–v–ãÒ&W‡G&7FVB"’¢6öæ=´×›h‘éì¶»§q«^t\]YØ]H[Y\Ý[\ˆÙ\ÜÚ[Û‹˜Y
-ÛÛ˜Ù\
-B‚‚™YˆY\™ÙWØÚ[š×Ø[˜[\Ù\ÊØÝ[Y[ˆØÝ[Y[[˜[\Ù\Îˆ\ÝÙXÝÜÝ‹[žWWJHOˆXÝÜÝ‹[žWN‚ˆˆˆ“Y\™ÙHYÚ\™XØ[\‹XÚ[šÈ^˜XÝ[ÛˆÚ[H™]Z[š[™È[]šY[˜ÙHØØ][ÛœËˆˆˆ‚ˆÛÛ˜Ù\Îˆ\ÝÙXÝÜÝ‹[žWWHH×BˆÛÛ˜Ù\ØžWÚY[]NˆXÝÝ\VÜÝ‹Ý—KXÝÜÝ‹[žWWHHßBˆÛÛ˜Ù\ØžWÛ˜[YNˆXÝÝ\VÜÝ‹Ý—KXÝÜÝ‹[žWWHHßBˆÙ^WÛX\ˆXÝÜÝ‹Ý—HHßBˆ™[][Û—ØžWÚY[]NˆXÝÝ\VÜÝ‹Ý‹Ý‹Ý—KXÝÜÝ‹[žWWHHßB‚ˆ›Üˆ[˜[\Ú\È[ˆ[˜[\Ù\Î‚ˆ›Üˆ˜]×Ú][H[ˆ[˜[\Ú\Ë™Ù]
-˜ÛÛ˜Ù\È‹×JHYˆ\Ú[œÝ[˜ÙJ[˜[\Ú\Ë™Ù]
-˜ÛÛ˜Ù\ÈŠK\Ý
-H[ÙH×N‚ˆYˆ›Ý\Ú[œÝ[˜ÙJ˜]×Ú][KXÝ
-N‚ˆÛÛ[YBˆØ[›ÛšXØ[Û˜[YHHÝŠ˜]×Ú][K™Ù]
-˜Ø[›ÛšXØ[Û˜[YH‹ˆŠJKœÝš\
+import json
+import re
+from concurrent.futures import ThreadPoolExecutor, as_completed
+from datetime import datetime, timezone
+from typing import Any
 
-BˆYˆ›ÝØ[›ÛšXØ[Û˜[YN‚ˆÛÛ[YBˆÛÛ˜Ù\Ý\HHÝŠ˜]×Ú][K™Ù]
-˜ÛÛ˜Ù\Ý\H‹™ØÝ[Y[ŠJBˆ˜[Y\ÈHÜ˜]×Ú][K™Ù]
-šY[ˆŠH›ÜˆšY[[ˆ
-˜Ø[›ÛšXØ[Û˜[YH‹šÛÜ™X[—Û˜[YH‹™[™Û\ÚÛ˜[YH‹˜XÜ›Ûž[HŠWBˆ›Ü›X[^™YÛ˜[Y\ÈHÛ›Ü›X[^™WÚÙ^JÝŠ˜[YJJH›Üˆ˜[YH[ˆ˜[Y\ÈYˆÝŠ˜[YJKœÝš\
+from sqlalchemy import delete, text
+from sqlmodel import Session, select
 
-WBˆY[]HH
-›Ü›X[^™WÚÙ^JØ[›ÛšXØ[Û˜[YJKÛÛ˜Ù\Ý\JBˆÝ\œ™[H™^
+from app.core.config import settings
+from app.core.constants import CONCEPT_TYPES
+from app.core.errors import DomainError
+from app.db import engine, ensure_fts
+from app.integrations.openai_adapter import OpenAIAdapter
+from app.models import AppSetting, Concept, ConceptAlias, Document, DocumentChunk, GraphEdge, GraphNode, IngestionJob, SearchHistory, SearchHistorySource
+from app.storage.local_files import delete_original, save_original
+from app.utils.citations import map_external_chunk
+from app.utils.hashing import sha256_text
+from app.utils.text import excerpt, normalize_key, normalize_text, split_chunks
 
-ÛÛ˜Ù\ØžWÛ˜[YK™Ù]
 
-˜[YKÛÛ˜Ù\Ý\JJH›Üˆ˜[YH[ˆ›Ü›X[^™YÛ˜[Y\ÈYˆÛÛ˜Ù\ØžWÛ˜[YK™Ù]
+def now() -> datetime:
+    return datetime.now(timezone.utc)
 
-˜[YKÛÛ˜Ù\Ý\JJJK›Û™JBˆYˆÝ\œ™[\È›Û™N‚ˆÝ\œ™[HXÝ
-˜]×Ú][JBˆÝ\œ™[ÈšÙ^H—HHˆ˜ÞÛ[ŠÛÛ˜Ù\Ê_H‚ˆÝ\œ™[ÈœÛÝ\˜ÙWÛÜ™[˜[È—HH×BˆÛÛ˜Ù\Ë˜\[™
-Ý\œ™[
-BˆÛÛ˜Ù\ØžWÚY[]VÚY[]WHHÝ\œ™[ˆ›Üˆ˜[YH[ˆ›Ü›X[^™YÛ˜[Y\Î‚ˆÛÛ˜Ù\ØžWÛ˜[YVÊ˜[YKÛÛ˜Ù\Ý\JWHHÝ\œ™[ˆÛÝ\˜ÙWÛÜ™[˜[H[
-˜]×Ú][K™Ù]
-œÛÝ\˜ÙWÛÜ™[˜[‹
-HÜˆ
-BˆYˆÛÝ\˜ÙWÛÜ™[˜[›Ý[ˆÝ\œ™[ÈœÛÝ\˜ÙWÛÜ™[˜[È—N‚ˆÝ\œ™[ÈœÛÝ\˜ÙWÛÜ™[˜[È—K˜\[™
-ÛÝ\˜ÙWÛÜ™[˜[
-Bˆ›ÜˆšY[[ˆ
-šÛÜ™X[—Û˜[YH‹™[™Û\ÚÛ˜[YH‹˜XÜ›Ûž[H‹™\ØÜš\[ÛˆŠN‚ˆYˆ›ÝÝŠÝ\œ™[™Ù]
-šY[ˆŠJKœÝš\
 
-H[™ÝŠ˜]×Ú][K™Ù]
-šY[ˆŠJKœÝš\
+def json_load(value: str | None, default: Any) -> Any:
+    try:
+        return json.loads(value) if value else default
+    except (TypeError, json.JSONDecodeError):
+        return default
 
-N‚ˆÝ\œ™[ÙšY[HH˜]×Ú][VÙšY[Bˆ˜]×ÚÙ^HHÝŠ˜]×Ú][K™Ù]
-šÙ^HŠHÜˆ˜]×Ú][K™Ù]
-[\ÚÙ^HŠHÜˆˆŠKœÝš\
 
-BˆYˆ˜]×ÚÙ^N‚ˆÙ^WÛX\Ü˜]×ÚÙ^WHHÝŠÝ\œ™[ÈšÙ^H—JB‚ˆ›Üˆ˜]×Ü™[][Ûˆ[ˆ[˜[\Ú\Ë™Ù]
-œ™[][ÛœÈ‹×JHYˆ\Ú[œÝ[˜ÙJ[˜[\Ú\Ë™Ù]
-œ™[][ÛœÈŠK\Ý
-H[ÙH×N‚ˆYˆ›Ý\Ú[œÝ[˜ÙJ˜]×Ü™[][Û‹XÝ
-N‚ˆÛÛ[YBˆÛÝ\˜ÙWÚÙ^HHÙ^WÛX\™Ù]
-ÝŠ˜]×Ü™[][Û‹™Ù]
-œÛÝ\˜ÙWÚÙ^H‹ˆŠJJBˆ\™Ù]ÚÙ^HHÙ^WÛX\™Ù]
-ÝŠ˜]×Ü™[][Û‹™Ù]
-\™Ù]ÚÙ^H‹ˆŠJJBˆYˆ›ÝÛÝ\˜ÙWÚÙ^HÜˆ›Ý\™Ù]ÚÙ^HÜˆÛÝ\˜ÙWÚÙ^HOH\™Ù]ÚÙ^N‚ˆÛÛ[YBˆ™[][Û—Ý\HHÝŠ˜]×Ü™[][Û‹™Ù]
-œ™[][Û—Ý\H‹œ™[]\×ÝÈŠJBˆX™[HÝŠ˜]×Ü™[][Û‹™Ù]
-›X™[‹œ™[]YŠJBˆY[]HH
-ÛÝ\˜ÙWÚÙ^K\™Ù]ÚÙ^K™[][Û—Ý\KX™[
-BˆÝ\œ™[H™[][Û—ØžWÚY[]K™Ù]
-Y[]JBˆYˆÝ\œ™[\È›Û™N‚ˆÝ\œ™[HXÝ
-˜]×Ü™[][ÛŠBˆÝ\œ™[ÈœÛÝ\˜ÙWÚÙ^H—HHÛÝ\˜ÙWÚÙ^BˆÝ\œ™[È\™Ù]ÚÙ^H—HH\™Ù]ÚÙ^BˆÝ\œ™[ÈœÛÝ\˜ÙWÛÜ™[˜[È—HH×Bˆ™[][Û—ØžWÚY[]VÚY[]WHHÝ\œ™[ˆÛÝ\˜ÙWÛÜ™[˜[H[
-˜]×Ü™[][Û‹™Ù]
-œÛÝ\˜ÙWÛÜ™[˜[‹
-HÜˆ
-BˆYˆÛÝ\˜ÙWÛÜ™[˜[›Ý[ˆÝ\œ™[ÈœÛÝ\˜ÙWÛÜ™[˜[È—N‚ˆÝ\œ™[ÈœÛÝ\˜ÙWÛÜ™[˜[È—K˜\[™
-ÛÝ\˜ÙWÛÜ™[˜[
-BˆYˆ[ŠÝŠ˜]×Ü™[][Û‹™Ù]
-™]šY[˜ÙH‹ˆŠJJHˆ[ŠÝŠÝ\œ™[™Ù]
-™]šY[˜ÙH‹ˆŠJJN‚ˆÝ\œ™[È™]šY[˜ÙH—HH˜]×Ü™[][Û‹™Ù]
-™]šY[˜ÙH‹ˆŠBˆÝ\œ™[È˜ÛÛ™šY[˜ÙH—HHX^
-›Ø]
-Ý\œ™[™Ù]
-˜ÛÛ™šY[˜ÙH‹ÊHÜˆÊK›Ø]
-˜]×Ü™[][Û‹™Ù]
-˜ÛÛ™šY[˜ÙH‹ÊHÜˆÊJB‚ˆ]HH™^
+def set_step(session: Session, job: IngestionJob, document: Document, step: str, progress: int, status: str = "running") -> None:
+    job.current_step, job.progress, job.status, job.updated_at = step, progress, status, now()
+    document.updated_at = now()
+    session.add(job)
+    session.add(document)
+    session.commit()
 
-ÝŠ][K™Ù]
-]H‹ˆŠJKœÝš\
 
-H›Üˆ][H[ˆ[˜[\Ù\ÈYˆÝŠ][K™Ù]
-]H‹ˆŠJKœÝš\
+def get_setting(session: Session, key: str) -> Any:
+    setting = session.get(AppSetting, key)
+    return json_load(setting.value_json, None) if setting else None
 
-JKØÝ[Y[]JBˆÝ[[X\žHH™^
 
-ÝŠ][K™Ù]
-œÝ[[X\žH‹ˆŠJKœÝš\
+def put_setting(session: Session, key: str, value: Any, secret: bool = False) -> None:
+    setting = session.get(AppSetting, key)
+    if not setting:
+        setting = AppSetting(key=key, value_json=json.dumps(value, ensure_ascii=False), is_secret=secret)
+    else:
+        setting.value_json, setting.updated_at, setting.is_secret = json.dumps(value, ensure_ascii=False), now(), secret
+    session.add(setting)
+    session.commit()
 
-H›Üˆ][H[ˆ[˜[\Ù\ÈYˆÝŠ][K™Ù]
-œÝ[[X\žH‹ˆŠJKœÝš\
 
-JK^Ù\œ
-ØÝ[Y[˜ÛÛ[L
-JBˆ™]\›ˆÈ]HŽˆ]KœÝ[[X\žHŽˆÝ[[X\žK˜ÛÛ˜Ù\ÈŽˆÛÛ˜Ù\Ëœ™[][ÛœÈŽˆ\Ý
-™[][Û—ØžWÚY[]K˜[Y\Ê
-J_B‚‚™Yˆ˜[˜XÚ×Ø[˜[\Ú\ÊØÝ[Y[ˆØÝ[Y[
-HOˆXÝÜÝ‹[žWN‚ˆÛÜ™ÈH×Bˆ›ÜˆÛÜ™[ˆ™K™š[™[
-ˆ–ÐKV˜K^—VÐKV˜K^ŒNWËW^Ì‹_ú¬ {g¨×^Ì‹H‹ØÝ[Y[˜ÛÛ[
-N‚ˆYˆÛÜ™›Ý[ˆÛÜ™È[™ÛÜ™›ÝÙ\Š
-H›Ý[ˆÈº­î:é«:¬è‹ºã ;eg‹»a­{em‹»'¢:â¥‹»'¢:âéŸNˆÛÜ™Ë˜\[™
-ÛÜ™
-Bˆ™]\›ˆÈ]HŽˆØÝ[Y[]KœÝ[[X\žHŽˆ^Ù\œ
-ØÝ[Y[˜ÛÛ[L
-K˜ÛÛ˜Ù\ÈŽˆÞÈšÙ^HŽˆˆ˜ÞÚ_H‹˜ÛÛ˜Ù\Ý\HŽˆXÚ›ÛÙÞH‹˜Ø[›ÛšXØ[Û˜[YHŽˆÛÜ™šÛÜ™X[—Û˜[YHŽˆÛÜ™Yˆ™KœÙX\˜Ú
-ˆ–ú¬ {g¨×H‹ÛÜ™
-H[ÙHˆ‹™[™Û\ÚÛ˜[YHŽˆÛÜ™Yˆ™KœÙX\˜Ú
-ˆ–ÐKV˜K^—H‹ÛÜ™
-H[ÙHˆ‹˜XÜ›Ûž[HŽˆˆ‹™\ØÜš\[ÛˆŽˆºë.;!';%ä;!';-¥;-§:ä';`©;&ã:äç‹œÛÝ\˜ÙWÛÜ™[˜[ŽˆH›ÜˆKÛÜ™[ˆ[[Y\˜]JÛÜ™ÖÎŒLŒJWKœ™[][ÛœÈŽˆ×_B‚‚™Yˆ˜[Y]WØ[˜[\Ú\Ê[˜[\Ú\ÎˆXÝÜÝ‹[žWKÚ[šÜÎˆ\ÝÑØÝ[Y[Ú[š×JHOˆXÝÜÝ‹[žWN‚ˆ™\Ý[HÈ]HŽˆÝŠ[˜[\Ú\Ë™Ù]
-]H‹»'¤:èãŠJVÎŒŒKœÝ[[X\žHŽˆÝŠ[˜[\Ú\Ë™Ù]
-œÝ[[X\žH‹ˆŠJVÎŒŒK˜ÛÛ˜Ù\ÈŽˆ×Kœ™[][ÛœÈŽˆ×_Bˆ›Üˆ[™^][H[ˆ[[Y\˜]J[˜[\Ú\Ë™Ù]
-˜ÛÛ˜Ù\È‹×JHYˆ\Ú[œÝ[˜ÙJ[˜[\Ú\Ë™Ù]
-˜ÛÛ˜Ù\ÈŠK\Ý
-H[ÙH×JN‚ˆYˆ›Ý\Ú[œÝ[˜ÙJ][KXÝ
-HÜˆ›ÝÝŠ][K™Ù]
-˜Ø[›ÛšXØ[Û˜[YH‹ˆŠJKœÝš\
+def create_ingestion(session: Session, raw: bytes, filename: str, title: str | None = None, source_name: str | None = None, extracted_text: str | None = None) -> tuple[Document, IngestionJob]:
+    suffix = "." + filename.lower().rsplit(".", 1)[-1] if "." in filename else ".txt"
+    if suffix not in {".txt", ".md", ".pdf"}: suffix = ".txt"
+    if extracted_text is not None:
+        content = extracted_text
+    else:
+        try:
+            content = raw.decode("utf-8-sig")
+        except UnicodeDecodeError:
+            content = raw.decode("cp949", errors="replace")
+    content = normalize_text(content)
+    if not content:
+        raise DomainError("EMPTY_DOCUMENT", "ë¬¸ì„œ ë‚´ìš©ì´ ë¹„ì–´ ìžˆìŠµë‹ˆë‹¤.", 422)
+    content_hash = sha256_text(content)
+    duplicate = session.exec(select(Document).where(Document.content_hash == content_hash, Document.deleted_at.is_(None))).first()
+    has_materialized_graph = False
+    if duplicate:
+        has_document_node = session.exec(select(GraphNode.id).where(GraphNode.document_id == duplicate.id)).first() is not None
+        concept_node_ids = select(GraphNode.id).where(GraphNode.node_type == "concept")
+        has_concept_edge = session.exec(select(GraphEdge.id).join(DocumentChunk, GraphEdge.evidence_chunk_id == DocumentChunk.id).where(DocumentChunk.document_id == duplicate.id, (GraphEdge.source_node_id.in_(concept_node_ids) | GraphEdge.target_node_id.in_(concept_node_ids)))).first() is not None
+        has_materialized_graph = has_document_node and has_concept_edge
+    if duplicate and duplicate.ingest_status not in {"failed", "draft", "ready"}:
+        raise DomainError("DUPLICATE_DOCUMENT", "ê°™ì€ ë‚´ìš©ì˜ ìžë£Œê°€ ì´ë¯¸ ì €ìž¥ë˜ì–´ ìžˆìŠµë‹ˆë‹¤.", 409)
+    if duplicate and duplicate.ingest_status == "ready" and has_materialized_graph:
+        raise DomainError("DUPLICATE_DOCUMENT", "ê°™ì€ ë‚´ìš©ì˜ ìžë£Œê°€ ì´ë¯¸ ì €ìž¥ë˜ì–´ ìžˆìŠµë‹ˆë‹¤.", 409)
+    if duplicate:
+        try:
+            delete_original(duplicate.original_path)
+        except (OSError, ValueError):
+            pass
+        duplicate.deleted_at = now()
+        duplicate.ingest_status = "deleted"
+        duplicate.updated_at = now()
+        session.add(duplicate)
+        session.commit()
+        # A failed/incomplete duplicate may already have chunks or graph
+        # material. Treat replacement as source deletion so no old evidence
+        # edge or orphan concept remains in the new graph.
+        cleanup_deleted_document(session, duplicate.id or 0)
+        session.commit()
+    document = Document(title=(title or filename.rsplit(".", 1)[0])[:200], source_name=(source_name or filename)[:300], source_format=suffix[1:], original_path="pending", content=content, content_hash=content_hash, content_chars=len(content), ingest_status="draft")
+    session.add(document)
+    session.flush()
+    relative_path, _ = save_original(document.public_id, suffix, raw)
+    document.original_path = relative_path
+    document.updated_at = now()
+    job = IngestionJob(document_id=document.id or 0, job_type="ingest", status="queued", current_step="validating")
+    session.add(job)
+    session.commit()
+    session.refresh(document)
+    session.refresh(job)
+    return document, job
 
-NˆÛÛ[YBˆÙ^HHÝŠ][K™Ù]
-šÙ^HŠHÜˆˆ˜ÞÚ[™^HŠVÎŽBˆÜ™[˜[ÈH][K™Ù]
-œÛÝ\˜ÙWÛÜ™[˜[ÈŠHYˆ\Ú[œÝ[˜ÙJ][K™Ù]
-œÛÝ\˜ÙWÛÜ™[˜[ÈŠK\Ý
-H[ÙHÚ][K™Ù]
-œÛÝ\˜ÙWÛÜ™[˜[‹
-WBˆ˜[YÛÜ™[˜[ÈHÛÜY
-ÛZ[ŠX^
-[
-˜[YHÜˆ
-K
-KX^
-[ŠÚ[šÜÊHHK
-JH›Üˆ˜[YH[ˆÜ™[˜[ßJHYˆÚ[šÜÈ[ÙHÌBˆ™\Ý[È˜ÛÛ˜Ù\È—K˜\[™
-È[\ÚÙ^HŽˆÙ^KšÙ^HŽˆÙ^K˜ÛÛ˜Ù\Ý\HŽˆÝŠ][K™Ù]
-˜ÛÛ˜Ù\Ý\H‹™ØÝ[Y[ŠJK˜Ø[›ÛšXØ[Û˜[YHŽˆÝŠ][K™Ù]
-˜Ø[›ÛšXØ[Û˜[YHŠJVÎŒÌKšÛÜ™X[—Û˜[YHŽˆÝŠ][K™Ù]
-šÛÜ™X[—Û˜[YH‹ˆŠJVÎŒÌK™[™Û\ÚÛ˜[YHŽˆÝŠ][K™Ù]
-™[™Û\ÚÛ˜[YH‹ˆŠJVÎŒÌK˜XÜ›Ûž[HŽˆÝŠ][K™Ù]
-˜XÜ›Ûž[H‹ˆŠJVÎŒLK™\ØÜš\[ÛˆŽˆÝŠ][K™Ù]
-™\ØÜš\[Ûˆ‹ˆŠJVÎLKœÛÝ\˜ÙWÛÜ™[˜[Žˆ˜[YÛÜ™[˜[ÖÌKœÛÝ\˜ÙWÛÜ™[˜[ÈŽˆ˜[YÛÜ™[˜[ËœÛÝ\˜ÙWØÚ[š×ÚYÈŽˆØÚ[šÜÖÛÜ™[˜[KœX›X×ÚY›ÜˆÜ™[˜[[ˆ˜[YÛÜ™[˜[×HYˆÚ[šÜÈ[ÙH×_JBˆÙ^\ÈHÚ][VÈšÙ^H—H›Üˆ][H[ˆ™\Ý[È˜ÛÛ˜Ù\È—_Bˆ›Üˆ[™^][H[ˆ[[Y\˜]J[˜[\Ú\Ë™Ù]
-œ™[][ÛœÈ‹×JHYˆ\Ú[œÝ[˜ÙJ[˜[\Ú\Ë™Ù]
-œ™[][ÛœÈŠK\Ý
-H[ÙH×JN‚ˆYˆ›Ý\Ú[œÝ[˜ÙJ][KXÝ
-HÜˆÝŠ][K™Ù]
-œÛÝ\˜ÙWÚÙ^HŠJH›Ý[ˆÙ^\ÈÜˆÝŠ][K™Ù]
-\™Ù]ÚÙ^HŠJH›Ý[ˆÙ^\ÎˆÛÛ[YBˆÜ™[˜[ÈH][K™Ù]
-œÛÝ\˜ÙWÛÜ™[˜[ÈŠHYˆ\Ú[œÝ[˜ÙJ][K™Ù]
-œÛÝ\˜ÙWÛÜ™[˜[ÈŠK\Ý
-H[ÙHÚ][K™Ù]
-œÛÝ\˜ÙWÛÜ™[˜[‹
-WBˆ˜[YÛÜ™[˜[ÈHÛÜY
-ÛZ[ŠX^
-[
-˜[YHÜˆ
-K
-KX^
-[ŠÚ[šÜÊHHK
-JH›Üˆ˜[YH[ˆÜ™[˜[ßJHYˆÚ[šÜÈ[ÙHÌBˆ™\Ý[Èœ™[][ÛœÈ—K˜\[™
-È[\ÚÙ^HŽˆˆœžÚ[™^H‹šÙ^HŽˆˆœžÚ[™^H‹œÛÝ\˜ÙWÚÙ^HŽˆÝŠ][VÈœÛÝ\˜ÙWÚÙ^H—JK\™Ù]ÚÙ^HŽˆÝŠ][VÈ\™Ù]ÚÙ^H—JKœ™[][Û—Ý\HŽˆÝŠ][K™Ù]
-œ™[][Û—Ý\H‹œ™[]\×ÝÈŠJVÎLK›X™[ŽˆÝŠ][K™Ù]
-›X™[‹œ™[]YŠJVÎŒŒK™]šY[˜ÙHŽˆÝŠ][K™Ù]
-™]šY[˜ÙH‹ˆŠJVÎŒLKœÛÝ\˜ÙWÛÜ™[˜[Žˆ˜[YÛÜ™[˜[ÖÌKœÛÝ\˜ÙWÛÜ™[˜[ÈŽˆ˜[YÛÜ™[˜[Ë˜ÛÛ™šY[˜ÙHŽˆX^
-Z[Š›Ø]
-][K™Ù]
-˜ÛÛ™šY[˜ÙH‹ÊHÜˆÊKJJ_JBˆ™]\›ˆ™\Ý[‚‚™YˆXZÙWÜ™]šY]ÊØÝ[Y[ˆØÝ[Y[Ú[šÜÎˆ\ÝÑØÝ[Y[Ú[š×K[˜[\Ú\ÎˆXÝÜÝ‹[žWJHOˆXÝÜÝ‹[žWN‚ˆ™]\›ˆÈ™ØÝ[Y[ÚYŽˆØÝ[Y[œX›X×ÚY˜Ú[š×ØÛÝ[Žˆ[ŠÚ[šÜÊK˜[˜[\Ú\ÈŽˆ[˜[\Ú\Ë˜Ú[šÜÈŽˆÞÈšYŽˆÚ[šËœX›X×ÚY›Ü™[˜[ŽˆÚ[šË›Ü™[˜[œÝ\ØÚ\ˆŽˆÚ[šËœÝ\ØÚ\‹™[™ØÚ\ˆŽˆÚ[šË™[™ØÚ\‹^Ü™]šY]ÈŽˆ^Ù\œ
-Ú[šË^L
-_H›ÜˆÚ[šÈ[ˆÚ[šÜ×K™^\Ý[™×ØÛÛ˜Ù\ÛX]Ú\ÈŽˆ×_B‚‚™Yˆ˜Z[Ú›ØŠÙ\ÜÚ[ÛŽˆÙ\ÜÚ[Û‹›ØŽˆ[™Ù\Ý[Û’›Ø‹ØÝ[Y[ˆØÝ[Y[ÛÙNˆÝ‹Y\ÜØYÙNˆÝŠHOˆ›Û™N‚ˆ›Ø‹œÝ]\Ë›Ø‹™\œ›Ü—ØÛÙK›Ø‹™\œ›Ü—ÛY\ÜØYÙK›Ø‹™š[š\ÚYØ]›Ø‹\]YØ]H™˜Z[Y‹ÛÙKY\ÜØYÙK›ÝÊ
-K›ÝÊ
-BˆØÝ[Y[š[™Ù\ÝÜÝ]\ËØÝ[Y[š[™Ù\ÝÙ\œ›Ü—ØÛÙKØÝ[Y[š[™Ù\ÝÙ\œ›Ü—ÛY\ÜØYÙKØÝ[Y[\]YØ]H™˜Z[Y‹ÛÙKY\ÜØYÙK›ÝÊ
-BˆÙ\ÜÚ[Û‹˜Y
-›ØŠNÈÙ\ÜÚ[Û‹˜Y
-ØÝ[Y[
-NÈÙ\ÜÚ[Û‹˜ÛÛ[Z]
 
-B‚‚™YˆÞ[˜×ÙØÝ[Y[ÙÊÙ\ÜÚ[ÛŽˆÙ\ÜÚ[Û‹ØÝ[Y[ˆØÝ[Y[
-HOˆ›Û™N‚ˆÛÛ›™XÝ[ÛˆHÙ\ÜÚ[Û‹˜ÛÛ›™XÝ[ÛŠ
-Bˆ[œÝ\™WÙÊÛÛ›™XÝ[ÛŠBˆÛÛ›™XÝ[Û‹™^X×Ùš]™\—ÜÜ[
-‘SUH”“ÓHØÝ[Y[×ÙÈÒT‘HX›X×ÚYHÈ‹
-ØÝ[Y[œX›X×ÚY
-JBˆYˆ›ÝØÝ[Y[™[]YØ]‚ˆÛÛ›™XÝ[Û‹™^X×Ùš]™\—ÜÜ[
-’S”ÑT•S•ÈØÝ[Y[×ÙÊ]KÝ[[X\žKÛÝ\˜ÙWÛ˜[YKX›X×ÚY
-HSQTÈ
-ËËËÊH‹
-ØÝ[Y[]KØÝ[Y[œÝ[[X\žHÜˆˆ‹ØÝ[Y[œÛÝ\˜ÙWÛ˜[YKØÝ[Y[œX›X×ÚY
-JB‚‚™YˆÞ[˜×Ø[ÙÊÙ\ÜÚ[ÛŽˆÙ\ÜÚ[ÛŠHOˆ›Û™N‚ˆÛÛ›™XÝ[ÛˆHÙ\ÜÚ[Û‹˜ÛÛ›™XÝ[ÛŠ
-Bˆ[œÝ\™WÙÊÛÛ›™XÝ[ÛŠBˆÛÛ›™XÝ[Û‹™^X×Ùš]™\—ÜÜ[
-‘SUH”“ÓHØÝ[Y[×ÙÈŠNÈÛÛ›™XÝ[Û‹™^X×Ùš]™\—ÜÜ[
-‘SUH”“ÓHÚ[šÜ×ÙÈŠNÈÛÛ›™XÝ[Û‹™^X×Ùš]™\—ÜÜ[
-‘SUH”“ÓHÛÛ˜Ù\×ÙÈŠBˆ›ÜˆØÝ[Y[[ˆÙ\ÜÚ[Û‹™^XÊÙ[XÝ
-ØÝ[Y[
-KÚ\™JØÝ[Y[™[]YØ]š\×Ê›Û™JJJK˜[
+def run_ingestion(job_public_id: str) -> None:
+    with Session(engine) as session:
+        job = session.exec(select(IngestionJob).where(IngestionJob.public_id == job_public_id)).first()
+        if not job or job.status not in {"queued", "running"}:
+            return
+        document = session.get(Document, job.document_id)
+        if not document:
+            return
+        try:
+            job.status, job.started_at, job.attempt = "running", now(), job.attempt + 1
+            document.ingest_status = "analyzing"
+            session.add(job); session.add(document); session.commit()
+            set_step(session, job, document, "storing_source", 10)
+            set_step(session, job, document, "chunking", 25)
+            # Re-ingestion replaces the source's chunks. Remove every edge
+            # evidenced by the old chunks first; concept-to-concept edges do
+            # not touch a document node, so deleting only old graph nodes
+            # would leave stale relationships behind.
+            old_chunk_ids = [chunk.id for chunk in session.exec(select(DocumentChunk).where(DocumentChunk.document_id == document.id)).all() if chunk.id]
+            if old_chunk_ids:
+                session.exec(delete(GraphEdge).where(GraphEdge.evidence_chunk_id.in_(old_chunk_ids)))
+            session.exec(delete(DocumentChunk).where(DocumentChunk.document_id == document.id))
+            pieces = split_chunks(document.content, settings.chunk_size_chars, settings.chunk_overlap_chars)
+            chunks: list[DocumentChunk] = []
+            for piece in pieces:
+                chunk = DocumentChunk(document_id=document.id or 0, ordinal=int(piece["ordinal"]), start_char=int(piece["start_char"]), end_char=int(piece["end_char"]), text=str(piece["text"]), normalized_text=normalize_text(str(piece["text"])), content_hash=sha256_text(str(piece["text"])))
+                session.add(chunk); chunks.append(chunk)
+            session.commit()
+            for chunk in chunks: session.refresh(chunk)
+            adapter = OpenAIAdapter()
+            vector_id = settings.openai_vector_store_id or get_setting(session, "vector_store_id")
+            if adapter.configured:
+                set_step(session, job, document, "uploading", 35)
+                vector_id = adapter.ensure_vector_store(vector_id)
+                if not settings.openai_vector_store_id: put_setting(session, "vector_store_id", vector_id)
+                result = adapter.upload_and_index(settings.data_dir / document.original_path, vector_id)
+                document.openai_file_id = result.get("file_id")
+                document.vector_store_id = vector_id
+                document.vector_store_file_id = result.get("vector_store_file_id")
+                document.vector_store_file_status = result.get("status")
+                set_step(session, job, document, "waiting_index", 55)
+            set_step(session, job, document, "extracting", 65)
+            if adapter.configured:
+                # Extraction is network-bound. Run a small bounded number of
+                # independent chunk requests concurrently, while keeping all
+                # DB writes and progress updates in this session/thread.
+                chunk_analyses_by_ordinal: dict[int, dict[str, Any]] = {}
+                worker_count = min(settings.openai_extraction_workers, max(len(chunks), 1))
 
-NˆÛÛ›™XÝ[Û‹™^X×Ùš]™\—ÜÜ[
-’S”ÑT•S•ÈØÝ[Y[×ÙÈSQTÈ
-ËËËÊH‹
-ØÝ[Y[]KØÝ[Y[œÝ[[X\žHÜˆˆ‹ØÝ[Y[œÛÝ\˜ÙWÛ˜[YKØÝ[Y[œX›X×ÚY
-JBˆ›ÜˆÚ[šÈ[ˆÙ\ÜÚ[Û‹™^XÊÙ[XÝ
-ØÝ[Y[Ú[šÊKš›Ú[ŠØÝ[Y[
-KÚ\™JØÝ[Y[™[]YØ]š\×Ê›Û™JJJK˜[
+                def extract_chunk(chunk: DocumentChunk) -> tuple[int, dict[str, Any]]:
+                    adapter_for_chunk = OpenAIAdapter()
+                    extraction = adapter_for_chunk.extract(chunk.text, source_ordinal=chunk.ordinal)
+                    concept_items = extraction.get("concepts", []) if isinstance(extraction.get("concepts"), list) else []
+                    # A second call is intentionally adaptive: dense documents get
+                    # better recall without doubling latency for already-rich chunks.
+                    expected_minimum = max(
+                        settings.openai_extraction_gap_min_concepts,
+                        min(24, len(chunk.text.strip()) // 3_000),
+                    )
+                    if (
+                        settings.openai_extraction_gap_pass
+                        and len(chunk.text.strip()) >= settings.openai_extraction_gap_min_chars
+                        and len(concept_items) < expected_minimum
+                    ):
+                        existing_names = [
+                            str(item.get(field, "")).strip()
+                            for item in concept_items
+                            for field in ("canonical_name", "korean_name", "english_name", "acronym")
+                            if str(item.get(field, "")).strip()
+                        ]
+                        gap = adapter_for_chunk.extract_gap(chunk.text, existing_names, source_ordinal=chunk.ordinal)
+                        extraction["concepts"] = concept_items + (gap.get("concepts", []) if isinstance(gap.get("concepts"), list) else [])
+                        extraction["relations"] = (extraction.get("relations", []) if isinstance(extraction.get("relations"), list) else []) + (gap.get("relations", []) if isinstance(gap.get("relations"), list) else [])
+                    return chunk.ordinal, extraction
 
-NˆÛÛ›™XÝ[Û‹™^X×Ùš]™\—ÜÜ[
-’S”ÑT•S•ÈÚ[šÜ×ÙÈSQTÈ
-ËÊH‹
-Ú[šË^Ú[šËœX›X×ÚY
-JBˆ›ÜˆÛÛ˜Ù\[ˆÙ\ÜÚ[Û‹™^XÊÙ[XÝ
-ÛÛ˜Ù\
-KÚ\™JÛÛ˜Ù\™[]YØ]š\×Ê›Û™JJJK˜[
+                with ThreadPoolExecutor(max_workers=worker_count, thread_name_prefix="extract") as executor:
+                    futures = [executor.submit(extract_chunk, chunk) for chunk in chunks]
+                    for index, future in enumerate(as_completed(futures), start=1):
+                        ordinal, extraction = future.result()
+                        chunk_analyses_by_ordinal[ordinal] = extraction
+                        progress = 65 + int((index / max(len(chunks), 1)) * 12)
+                        set_step(session, job, document, "extracting", progress)
+                chunk_analyses = [chunk_analyses_by_ordinal[chunk.ordinal] for chunk in chunks]
+                analysis = merge_chunk_analyses(document, chunk_analyses)
+            else:
+                analysis = fallback_analysis(document)
+            analysis = validate_analysis(analysis, chunks)
+            job.preview_json = json.dumps(make_preview(document, chunks, analysis), ensure_ascii=False)
+            job.status, job.current_step, job.progress = "review_ready", "ready", 80
+            document.ingest_status = "review_ready"
+            job.updated_at = document.updated_at = now()
+            session.add(job); session.add(document); session.commit()
+        except DomainError as exc:
+            fail_job(session, job, document, exc.code, exc.message)
+        except Exception:
+            fail_job(session, job, document, "INTERNAL_ERROR", "ìžë£Œ ì²˜ë¦¬ ì¤‘ ì˜¤ë¥˜ê°€ ë°œìƒí–ˆìŠµë‹ˆë‹¤.")
 
-NˆÛÛ›™XÝ[Û‹™^X×Ùš]™\—ÜÜ[
-’S”ÑT•S•ÈÛÛ˜Ù\×ÙÈSQTÈ
-ËËËËËÊH‹
-ÛÛ˜Ù\˜Ø[›ÛšXØ[Û˜[YKÛÛ˜Ù\šÛÜ™X[—Û˜[YHÜˆˆ‹ÛÛ˜Ù\™[™Û\ÚÛ˜[YHÜˆˆ‹ÛÛ˜Ù\˜XÜ›Ûž[HÜˆˆ‹ÛÛ˜Ù\™\ØÜš\[Û‹ÛÛ˜Ù\œX›X×ÚY
-JB‚‚™YˆÙX\˜ÚÛØØ[
-Ù\ÜÚ[ÛŽˆÙ\ÜÚ[Û‹]Y\žNˆÝ‹[Z]ˆ[HL
-HOˆ\ÝÙXÝÜÝ‹[žWWN‚ˆÝÜÛÜ™ÈHÈº­î:é«:¬è‹ºã ;eg‹H‹˜[™‹Ú]‹ÚXÚ‹šÝÈŸBˆ˜]×Ý\›\ÈHÝ\›H›Üˆ\›H[ˆ™K™š[™[
-ˆ–ÐKV˜K^ŒNz¬ {g¨×ËW^Ì‹H‹]Y\žJHYˆ\›K›ÝÙ\Š
-H›Ý[ˆÝÜÛÜ™×BˆÛÜ™X[—Ü\XÛ\ÈH
-»%ä;!'‹»'/:èg‹ºí ;a,‹º®c;)à‹»%ä:¬£‹»%ä:â¥‹»'`‹ºâ¥‹»'m‹º¬ ‹»'a‹ºéo‹»'f‹ºãá‹ºèg‹»&`‹º¬ïŠBˆ\›\ÈH×Bˆ›Üˆ\›H[ˆ˜]×Ý\›\Î‚ˆ\›\Ë˜\[™
-\›JBˆYˆ™KœÙX\˜Ú
-ˆ–ú¬ {g¨×H‹\›JN‚ˆ›Üˆ\XÛH[ˆÛÜ™X[—Ü\XÛ\Î‚ˆYˆ\›K™[™ÝÚ]
-\XÛJH[™[Š\›JHH[Š\XÛJHHŽ‚ˆÝ[HH\›VÎˆ[[Š\XÛJWBˆYˆÝ[H›Ý[ˆ\›\Î‚ˆ\›\Ë˜\[™
-Ý[JBˆœ™XZÂˆYˆ›Ý\›\Îˆ™]\›ˆ×BˆÈ™Yš^X]Ú[™ÈÙY\ÈÙ^]ÛÜ™ÙX\˜Ú\ÙY[›Üˆ[™›XÝYÛÜ™X[‹Ñ[™Û\ÚÚÙ[œË‚ˆX]ÚHˆÔˆ‹š›Ú[Š‰ÞÝ\›Kœ™\XÙJÚŠÍ
-KˆŠ_J‰È›Üˆ\›H[ˆ\›\ÊBˆÛÛ›™XÝ[ÛˆHÙ\ÜÚ[Û‹˜ÛÛ›™XÝ[ÛŠ
-Bˆ[œÝ\™WÙÊÛÛ›™XÝ[ÛŠBˆžN‚ˆØ×Ü›ÝÜÈHÛÛ›™XÝ[Û‹™^X×Ùš]™\—ÜÜ[
-”ÑSPÕX›X×ÚY›LJØÝ[Y[×ÙÊHTÈ˜[šÈ”“ÓHØÝ[Y[×ÙÈÒT‘HØÝ[Y[×ÙÈPUÒÈÔ‘Tˆ–H˜[šÈSRUÈ‹
-X]Ú[Z]
-JK™™]Ú[
 
-BˆÚ[š×Ü›ÝÜÈHÛÛ›™XÝ[Û‹™^X×Ùš]™\—ÜÜ[
-”ÑSPÕX›X×ÚY›LJÚ[šÜ×ÙÊHTÈ˜[šÈ”“ÓHÚ[šÜ×ÙÈÒT‘HÚ[šÜ×ÙÈPUÒÈÔ‘Tˆ–H˜[šÈSRUÈ‹
-X]Ú[Z]
-JK™™]Ú[
+def confirm_ingestion(session: Session, job: IngestionJob, title: str, summary: str, included: list[str], excluded_relations: list[str]) -> None:
+    if job.status == "succeeded":
+        return
+    if job.status != "review_ready":
+        raise DomainError("VALIDATION_ERROR", "ë¶„ì„ ê²€í† ê°€ ì™„ë£Œëœ ìž‘ì—…ë§Œ ì €ìž¥í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤.", 409)
+    document = session.get(Document, job.document_id)
+    if not document or document.deleted_at:
+        raise DomainError("NOT_FOUND", "ë¬¸ì„œë¥¼ ì°¾ì„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤.", 404)
+    preview = json_load(job.preview_json, {})
+    analysis = preview.get("analysis", {})
+    analysis["title"], analysis["summary"] = title, summary
+    if included:
+        analysis["concepts"] = [item for item in analysis.get("concepts", []) if item.get("temp_key") in included or item.get("key") in included]
+    analysis["relations"] = [item for item in analysis.get("relations", []) if item.get("temp_key") not in excluded_relations and item.get("key") not in excluded_relations]
+    job.status, job.current_step, job.progress = "running", "storing", 85
+    document.ingest_status, document.title, document.summary = "storing", title, summary
+    session.add(job); session.add(document); session.commit()
+    apply_analysis(session, document, analysis)
+    document.analysis_json = json.dumps(analysis, ensure_ascii=False)
+    document.ingest_status, document.updated_at = "ready", now()
+    job.status, job.current_step, job.progress, job.finished_at = "succeeded", "ready", 100, now()
+    job.updated_at = now()
+    refresh_concept_liveness(session)
+    sync_document_fts(session, document)
+    session.add(document); session.add(job); session.commit()
 
-Bˆ^Ù\^Ù\[ÛŽ‚ˆØ×Ü›ÝÜËÚ[š×Ü›ÝÜÈH×K×BˆžN‚ˆÛÛ˜Ù\Ü›ÝÜÈHÛÛ›™XÝ[Û‹™^X×Ùš]™\—ÜÜ[
-”ÑSPÕX›X×ÚY›LJÛÛ˜Ù\×ÙÊHTÈ˜[šÈ”“ÓHÛÛ˜Ù\×ÙÈÒT‘HÛÛ˜Ù\×ÙÈPUÒÈÔ‘Tˆ–H˜[šÈSRUÈ‹
-X]Ú[Z]
-JK™™]Ú[
 
-Bˆ^Ù\^Ù\[ÛŽ‚ˆÛÛ˜Ù\Ü›ÝÜÈH×BˆÚ[š×ÚYÈHÜ›ÝÖÌH›Üˆ›ÝÈ[ˆÚ[š×Ü›ÝÜßBˆÚ[šÜÈHÙ\ÜÚ[Û‹™^XÊÙ[XÝ
-ØÝ[Y[Ú[šÊKÚ\™JØÝ[Y[Ú[šËœX›X×ÚYš[—ÊÚ[š×ÚYÊJJK˜[
+def apply_analysis(session: Session, document: Document, analysis: dict[str, Any]) -> None:
+    old_nodes = session.exec(select(GraphNode).where(GraphNode.document_id == document.id)).all()
+    old_node_ids = [node.id for node in old_nodes if node.id]
+    if old_node_ids:
+        session.exec(delete(GraphEdge).where(GraphEdge.source_node_id.in_(old_node_ids) | GraphEdge.target_node_id.in_(old_node_ids)))
+    session.exec(delete(GraphNode).where(GraphNode.document_id == document.id))
+    chunks = session.exec(select(DocumentChunk).where(DocumentChunk.document_id == document.id).order_by(DocumentChunk.ordinal)).all()
+    document_node = GraphNode(node_type="document", document_id=document.id, is_visible_default=True)
+    session.add(document_node); session.flush()
+    chunk_nodes: dict[int, GraphNode] = {}
+    if len(chunks) > 1:
+        for chunk in chunks:
+            node = GraphNode(node_type="chunk", document_id=document.id, chunk_id=chunk.id, is_visible_default=False)
+            session.add(node); session.flush(); chunk_nodes[chunk.ordinal] = node
+            session.add(GraphEdge(source_node_id=document_node.id, target_node_id=node.id, relation_type="contains", label="contains", evidence_chunk_id=chunk.id, evidence_text=excerpt(chunk.text, 200), confidence=1, origin="extracted"))
+    concept_nodes: dict[str, GraphNode] = {}
+    for item in analysis.get("concepts", []):
+        kind = item.get("concept_type", "document")
+        if kind not in CONCEPT_TYPES: continue
+        names = [item.get("canonical_name", ""), item.get("korean_name", ""), item.get("english_name", ""), item.get("acronym", "")]
+        names = [str(name).strip() for name in names if str(name).strip()]
+        if not names: continue
+        key = normalize_key(names[0])
+        concept = session.exec(select(Concept).where(Concept.normalized_key == key, Concept.concept_type == kind, Concept.deleted_at.is_(None))).first()
+        if not concept:
+            concept = session.exec(select(Concept).where(Concept.normalized_key == key, Concept.concept_type == kind)).first()
+            if concept:
+                concept.deleted_at = None
+                concept.merge_status = "confirmed"
+        if not concept:
+            concept = Concept(concept_type=kind, canonical_name=names[0][:300], korean_name=(names[1] if len(names) > 1 else None), english_name=(names[2] if len(names) > 2 else None), acronym=(names[3] if len(names) > 3 else None), normalized_key=key, description=str(item.get("description", ""))[:500], merge_status="confirmed")
+            session.add(concept); session.flush()
+        for alias_type, alias in (("korean", concept.korean_name), ("english", concept.english_name), ("acronym", concept.acronym), ("alternate", concept.canonical_name)):
+            if alias:
+                exists = session.exec(select(ConceptAlias).where(ConceptAlias.concept_id == concept.id, ConceptAlias.normalized_alias == normalize_key(alias))).first()
+                if not exists: session.add(ConceptAlias(concept_id=concept.id, alias=alias, normalized_alias=normalize_key(alias), alias_type=alias_type, is_primary=alias == concept.canonical_name))
+        node = session.exec(select(GraphNode).where(GraphNode.concept_id == concept.id)).first()
+        if not node:
+            node = GraphNode(node_type="concept", concept_id=concept.id, is_visible_default=True); session.add(node); session.flush()
+        concept_nodes[str(item.get("key") or item.get("temp_key"))] = node
+        ordinals = item.get("source_ordinals") or [item.get("source_ordinal", 0)]
+        for raw_ordinal in sorted({int(value or 0) for value in ordinals}):
+            chunk = next((x for x in chunks if x.ordinal == raw_ordinal), chunks[0])
+            source_node = chunk_nodes.get(chunk.ordinal, document_node)
+            session.add(GraphEdge(source_node_id=source_node.id, target_node_id=node.id, relation_type="mentions", label="mentions", evidence_chunk_id=chunk.id, evidence_text=excerpt(chunk.text, 200), confidence=0.9, origin="extracted"))
+    for relation in analysis.get("relations", []):
+        source, target = concept_nodes.get(str(relation.get("source_key"))), concept_nodes.get(str(relation.get("target_key")))
+        if not source or not target or source.id == target.id: continue
+        ordinals = relation.get("source_ordinals") or [relation.get("source_ordinal", 0)]
+        for raw_ordinal in sorted({int(value or 0) for value in ordinals}):
+            chunk = next((x for x in chunks if x.ordinal == raw_ordinal), chunks[0])
+            session.add(GraphEdge(source_node_id=source.id, target_node_id=target.id, relation_type=str(relation.get("relation_type", "relates_to"))[:50], label=str(relation.get("label", "related"))[:200], evidence_chunk_id=chunk.id, evidence_text=str(relation.get("evidence", ""))[:1000], confidence=max(0, min(float(relation.get("confidence", 0.7) or 0.7), 1)), origin="extracted"))
+    session.flush()
+    for concept in session.exec(select(Concept)).all():
+        concept.source_count = len(session.exec(select(GraphEdge).where(GraphEdge.target_node_id.in_(select(GraphNode.id).where(GraphNode.concept_id == concept.id)))).all())
+        concept.updated_at = now()
+    sync_all_fts(session)
 
-HYˆÚ[š×ÚYÈ[ÙH×BˆÚ[š×ØžWÚYHØÚ[šËœX›X×ÚYˆÚ[šÈ›ÜˆÚ[šÈ[ˆÚ[šÜßBˆØ×ØžWØÚ[šÈHØÚ[šËœX›X×ÚYˆÙ\ÜÚ[Û‹™Ù]
-ØÝ[Y[Ú[šË™ØÝ[Y[ÚY
-H›ÜˆÚ[šÈ[ˆÚ[šÜßBˆ™\ÝØÚ[š×ØžWÙØÝ[Y[HßBˆØÛÜ™\ÈHÜ›ÝÖÌNˆHÈ
-H
-ÈX^
-›Ø]
-›ÝÖÌWJK
-JH›Üˆ›ÝÈ[ˆØ×Ü›ÝÜßBˆ›Üˆ›ÝÈ[ˆÚ[š×Ü›ÝÜÎ‚ˆØÝ[Y[HØ×ØžWØÚ[šË™Ù]
-›ÝÖÌJBˆYˆØÝ[Y[‚ˆ™\ÝØÚ[š×ØžWÙØÝ[Y[œÙ]Y˜][
-ØÝ[Y[œX›X×ÚYÚ[š×ØžWÚY™Ù]
-›ÝÖÌJJBˆØÛÜ™\ÖÙØÝ[Y[œX›X×ÚYHHX^
-ØÛÜ™\Ë™Ù]
-ØÝ[Y[œX›X×ÚY
-KHÈ
-H
-ÈX^
-›Ø]
-›ÝÖÌWJK
-JJBˆØÝ[Y[ÈHÙØÝ[Y[œX›X×ÚYˆØÝ[Y[›ÜˆØÝ[Y[[ˆÙ\ÜÚ[Û‹™^XÊÙ[XÝ
-ØÝ[Y[
-KÚ\™JØÝ[Y[™[]YØ]š\×Ê›Û™JKØÝ[Y[š[™Ù\ÝÜÝ]\ÈOHœ™XYHŠJK˜[
 
-_Bˆ™\Ý[ÎˆXÝÜÝ‹XÝÜÝ‹[žWWHHßBˆ›ÜˆX›X×ÚYØÝ[Y[[ˆØÝ[Y[Ëš][\Ê
-N‚ˆYˆX›X×ÚY›Ý[ˆØÛÜ™\Î‚ˆÛÛ[YBˆÚ[šÈH™\ÝØÚ[š×ØžWÙØÝ[Y[™Ù]
-X›X×ÚY
-BˆÛÛ[HÚ[šË^YˆÚ[šÈ[ÙHØÝ[Y[˜ÛÛ[ˆ™\Ý[ÖÜX›X×ÚYHHÈ™ØÝ[Y[ŽˆØÝ[Y[œØÛÜ™HŽˆ›Ý[™
-ØÛÜ™\Ë™Ù]
-X›X×ÚYŒJK
-K˜Ú[šÈŽˆÚ[šË˜ÛÛ[ŽˆÛÛ[›X]ÚYÝ\›\ÈŽˆÝ\›H›Üˆ\›H[ˆ\›\ÈYˆ\›K˜Ø\ÙY›Û
+def cleanup_deleted_document(session: Session, document_id: int) -> None:
+    """Remove source-owned graph material without deleting shared concepts."""
+    chunks = session.exec(select(DocumentChunk).where(DocumentChunk.document_id == document_id)).all()
+    chunk_ids = {chunk.id for chunk in chunks if chunk.id}
+    if chunk_ids:
+        session.exec(delete(GraphEdge).where(GraphEdge.evidence_chunk_id.in_(chunk_ids)))
+    session.exec(delete(GraphNode).where(GraphNode.document_id == document_id))
+    session.flush()
+    refresh_concept_liveness(session)
+    sync_all_fts(session)
 
-H[ˆÛÛ[˜Ø\ÙY›Û
 
-W_B‚ˆÈHÜ˜\\È[ÛÈH™]šY]˜[[™^ˆHX]ÚYÛÛ˜Ù\]\ÝXY›ÝYÚˆÈ[ˆ]šY[˜ÙHYÙHÈHÛÝ\˜ÙHÚ[šÈ[™ØÝ[Y[™Y›Ü™H]Ø[ˆÜ›Ý[™[ˆ[œÝÙ\‹‚ˆÛÛ˜Ù\ÚYÈHÜ›ÝÖÌH›Üˆ›ÝÈ[ˆÛÛ˜Ù\Ü›ÝÜßBˆYˆÛÛ˜Ù\ÚYÎ‚ˆÛÛ˜Ù\ÈHÙ\ÜÚ[Û‹™^XÊÙ[XÝ
-ÛÛ˜Ù\
-KÚ\™JÛÛ˜Ù\œX›X×ÚYš[—ÊÛÛ˜Ù\ÚYÊKÛÛ˜Ù\™[]YØ]š\×Ê›Û™JJJK˜[
+def refresh_concept_liveness(session: Session) -> None:
+    """Keep a concept visible iff an active source still has an evidence edge."""
+    active_chunks = {
+        chunk.id: chunk
+        for chunk in session.exec(
+            select(DocumentChunk).join(Document).where(Document.deleted_at.is_(None), Document.ingest_status == "ready")
+        ).all()
+        if chunk.id
+    }
+    active_edges = session.exec(select(GraphEdge).where(GraphEdge.evidence_chunk_id.in_(set(active_chunks)))).all() if active_chunks else []
+    concept_nodes = {
+        node.id: node.concept_id
+        for node in session.exec(select(GraphNode).where(GraphNode.node_type == "concept", GraphNode.concept_id.is_not(None))).all()
+        if node.id and node.concept_id
+    }
+    documents_by_concept: dict[int, set[int]] = {}
+    for edge in active_edges:
+        concept_ids = {concept_nodes.get(edge.source_node_id), concept_nodes.get(edge.target_node_id)} - {None}
+        document_id = active_chunks.get(edge.evidence_chunk_id).document_id if active_chunks.get(edge.evidence_chunk_id) else None
+        if document_id is None:
+            continue
+        for concept_id in concept_ids:
+            documents_by_concept.setdefault(int(concept_id), set()).add(document_id)
+    timestamp = now()
+    for concept in session.exec(select(Concept)).all():
+        source_ids = documents_by_concept.get(concept.id or 0, set())
+        concept.source_count = len(source_ids)
+        concept.deleted_at = None if source_ids else timestamp
+        concept.updated_at = timestamp
+        session.add(concept)
 
-BˆÛÛ˜Ù\ØžWÚYHØÛÛ˜Ù\šYˆÛÛ˜Ù\›ÜˆÛÛ˜Ù\[ˆÛÛ˜Ù\ßBˆÛÛ˜Ù\Û›Ù\ÈHÙ\ÜÚ[Û‹™^XÊÙ[XÝ
-Ü˜\›ÙJKÚ\™JÜ˜\›ÙK››ÙWÝ\HOH˜ÛÛ˜Ù\‹Ü˜\›ÙK˜ÛÛ˜Ù\ÚYš[—ÊÙ]
-ÛÛ˜Ù\ØžWÚY
-JJJK˜[
 
-BˆÛÛ˜Ù\Û›ÙWÚYÈHÛ›ÙKšY›Üˆ›ÙH[ˆÛÛ˜Ù\Û›Ù\ßBˆYÙ\ÈHÙ\ÜÚ[Û‹™^XÊÙ[XÝ
-Ü˜\YÙJKÚ\™JÜ˜\YÙKœÛÝ\˜ÙWÛ›ÙWÚYš[—ÊÛÛ˜Ù\Û›ÙWÚYÊHÜ˜\YÙK\™Ù]Û›ÙWÚYš[—ÊÛÛ˜Ù\Û›ÙWÚYÊJJK˜[
+def merge_chunk_analyses(document: Document, analyses: list[dict[str, Any]]) -> dict[str, Any]:
+    """Merge high-recall per-chunk extraction while retaining all evidence locations."""
+    concepts: list[dict[str, Any]] = []
+    concept_by_identity: dict[tuple[str, str], dict[str, Any]] = {}
+    concept_by_name: dict[tuple[str, str], dict[str, Any]] = {}
+    key_map: dict[str, str] = {}
+    relation_by_identity: dict[tuple[str, str, str, str], dict[str, Any]] = {}
 
-BˆÛÛ˜Ù\ÜØÛÜ™\ÈHÜX›X×ÚYˆHÈ
-H
-ÈX^
-›Ø]
-˜[šÊK
-JH›ÜˆX›X×ÚY˜[šÈ[ˆÛÛ˜Ù\Ü›ÝÜßBˆ›ÜˆYÙH[ˆYÙ\Î‚ˆÚ[šÈHÙ\ÜÚ[Û‹™Ù]
-ØÝ[Y[Ú[šËYÙK™]šY[˜ÙWØÚ[š×ÚY
-BˆØÝ[Y[HØÝ[Y[Ë™Ù]
-Ù\ÜÚ[Û‹™Ù]
-ØÝ[Y[Ú[šË™ØÝ[Y[ÚY
-KœX›X×ÚY
-HYˆÚ[šÈ[™Ù\ÜÚ[Û‹™Ù]
-ØÝ[Y[Ú[šË™ØÝ[Y[ÚY
-H[ÙH›Û™BˆYˆ›ÝØÝ[Y[‚ˆÛÛ[YBˆÛÛ˜Ù\Û›ÙHH™^
+    for analysis in analyses:
+        for raw_item in analysis.get("concepts", []) if isinstance(analysis.get("concepts"), list) else []:
+            if not isinstance(raw_item, dict):
+                continue
+            canonical_name = str(raw_item.get("canonical_name", "")).strip()
+            if not canonical_name:
+                continue
+            concept_type = str(raw_item.get("concept_type", "document"))
+            names = [raw_item.get(field, "") for field in ("canonical_name", "korean_name", "english_name", "acronym")]
+            normalized_names = [normalize_key(str(name)) for name in names if str(name).strip()]
+            identity = (normalize_key(canonical_name), concept_type)
+            current = next((concept_by_name.get((name, concept_type)) for name in normalized_names if concept_by_name.get((name, concept_type))), None)
+            if current is None:
+                current = dict(raw_item)
+                current["key"] = f"c{len(concepts)}"
+                current["source_ordinals"] = []
+                concepts.append(current)
+                concept_by_identity[identity] = current
+            for name in normalized_names:
+                concept_by_name[(name, concept_type)] = current
+            source_ordinal = int(raw_item.get("source_ordinal", 0) or 0)
+            if source_ordinal not in current["source_ordinals"]:
+                current["source_ordinals"].append(source_ordinal)
+            for field in ("korean_name", "english_name", "acronym", "description"):
+                if not str(current.get(field, "")).strip() and str(raw_item.get(field, "")).strip():
+                    current[field] = raw_item[field]
+            raw_key = str(raw_item.get("key") or raw_item.get("temp_key") or "").strip()
+            if raw_key:
+                key_map[raw_key] = str(current["key"])
 
-›ÙH›Üˆ›ÙH[ˆÛÛ˜Ù\Û›Ù\ÈYˆ›ÙKšY[ˆÙYÙKœÛÝ\˜ÙWÛ›ÙWÚYYÙK\™Ù]Û›ÙWÚYJK›Û™JBˆÛÛ˜Ù\HÛÛ˜Ù\ØžWÚY™Ù]
-ÛÛ˜Ù\Û›ÙK˜ÛÛ˜Ù\ÚY
-HYˆÛÛ˜Ù\Û›ÙH[ÙH›Û™BˆYˆ›ÝÛÛ˜Ù\‚ˆÛÛ[YBˆØÛÜ™HH›Ý[™
-X^
-™\Ý[Ë™Ù]
-ØÝ[Y[œX›X×ÚYßJK™Ù]
-œØÛÜ™H‹
-KÛÛ˜Ù\ÜØÛÜ™\Ë™Ù]
-ÛÛ˜Ù\œX›X×ÚYŒJJK
-BˆÝ\œ™[H™\Ý[Ë™Ù]
-ØÝ[Y[œX›X×ÚY
-BˆYˆ›ÝÝ\œ™[ÜˆØÛÜ™HˆÝ\œ™[ÈœØÛÜ™H—N‚ˆ™\Ý[ÖÙØÝ[Y[œX›X×ÚYHHÈ™ØÝ[Y[ŽˆØÝ[Y[œØÛÜ™HŽˆØÛÜ™K˜Ú[šÈŽˆÚ[šË˜ÛÛ[ŽˆÚ[šË^›X]ÚYÝ\›\ÈŽˆØÛÛ˜Ù\˜Ø[›ÛšXØ[Û˜[YW_B‚ˆ™]\›ˆÛÜY
-™\Ý[Ë˜[Y\Ê
-KÙ^O[[X™H][Nˆ][VÈœØÛÜ™H—K™]™\œÙOUYJVÎ›[Z]B
+        for raw_relation in analysis.get("relations", []) if isinstance(analysis.get("relations"), list) else []:
+            if not isinstance(raw_relation, dict):
+                continue
+            source_key = key_map.get(str(raw_relation.get("source_key", "")))
+            target_key = key_map.get(str(raw_relation.get("target_key", "")))
+            if not source_key or not target_key or source_key == target_key:
+                continue
+            relation_type = str(raw_relation.get("relation_type", "relates_to"))
+            label = str(raw_relation.get("label", "related"))
+            identity = (source_key, target_key, relation_type, label)
+            current = relation_by_identity.get(identity)
+            if current is None:
+                current = dict(raw_relation)
+                current["source_key"] = source_key
+                current["target_key"] = target_key
+                current["source_ordinals"] = []
+                relation_by_identity[identity] = current
+            source_ordinal = int(raw_relation.get("source_ordinal", 0) or 0)
+            if source_ordinal not in current["source_ordinals"]:
+                current["source_ordinals"].append(source_ordinal)
+            if len(str(raw_relation.get("evidence", ""))) > len(str(current.get("evidence", ""))):
+                current["evidence"] = raw_relation.get("evidence", "")
+            current["confidence"] = max(float(current.get("confidence", 0.7) or 0.7), float(raw_relation.get("confidence", 0.7) or 0.7))
+
+    title = next((str(item.get("title", "")).strip() for item in analyses if str(item.get("title", "")).strip()), document.title)
+    summary = next((str(item.get("summary", "")).strip() for item in analyses if str(item.get("summary", "")).strip()), excerpt(document.content, 500))
+    return {"title": title, "summary": summary, "concepts": concepts, "relations": list(relation_by_identity.values())}
+
+
+def fallback_analysis(document: Document) -> dict[str, Any]:
+    words = []
+    for word in re.findall(r"[A-Za-z][A-Za-z0-9_-]{2,}|[ê°€-íž£]{2,}", document.content):
+        if word not in words and word.lower() not in {"ê·¸ë¦¬ê³ ", "ëŒ€í•œ", "í†µí•´", "ìžˆëŠ”", "ìžˆë‹¤"}: words.append(word)
+    return {"title": document.title, "summary": excerpt(document.content, 500), "concepts": [{"key": f"c{i}", "concept_type": "technology", "canonical_name": word, "korean_name": word if re.search(r"[ê°€-íž£]", word) else "", "english_name": word if re.search(r"[A-Za-z]", word) else "", "acronym": "", "description": "ë¬¸ì„œì—ì„œ ì¶”ì¶œëœ í‚¤ì›Œë“œ", "source_ordinal": 0} for i, word in enumerate(words[:120])], "relations": []}
+
+
+def validate_analysis(analysis: dict[str, Any], chunks: list[DocumentChunk]) -> dict[str, Any]:
+    result = {"title": str(analysis.get("title", "ìžë£Œ"))[:200], "summary": str(analysis.get("summary", ""))[:2000], "concepts": [], "relations": []}
+    for index, item in enumerate(analysis.get("concepts", []) if isinstance(analysis.get("concepts"), list) else []):
+        if not isinstance(item, dict) or not str(item.get("canonical_name", "")).strip(): continue
+        key = str(item.get("key") or f"c{index}")[:80]
+        ordinals = item.get("source_ordinals") if isinstance(item.get("source_ordinals"), list) else [item.get("source_ordinal", 0)]
+        valid_ordinals = sorted({min(max(int(value or 0), 0), max(len(chunks) - 1, 0)) for value in ordinals}) if chunks else [0]
+        result["concepts"].append({"temp_key": key, "key": key, "concept_type": str(item.get("concept_type", "document")), "canonical_name": str(item.get("canonical_name"))[:300], "korean_name": str(item.get("korean_name", ""))[:300], "english_name": str(item.get("english_name", ""))[:300], "acronym": str(item.get("acronym", ""))[:100], "description": str(item.get("description", ""))[:500], "source_ordinal": valid_ordinals[0], "source_ordinals": valid_ordinals, "source_chunk_ids": [chunks[ordinal].public_id for ordinal in valid_ordinals] if chunks else []})
+    keys = {item["key"] for item in result["concepts"]}
+    for index, item in enumerate(analysis.get("relations", []) if isinstance(analysis.get("relations"), list) else []):
+        if not isinstance(item, dict) or str(item.get("source_key")) not in keys or str(item.get("target_key")) not in keys: continue
+        ordinals = item.get("source_ordinals") if isinstance(item.get("source_ordinals"), list) else [item.get("source_ordinal", 0)]
+        valid_ordinals = sorted({min(max(int(value or 0), 0), max(len(chunks) - 1, 0)) for value in ordinals}) if chunks else [0]
+        result["relations"].append({"temp_key": f"r{index}", "key": f"r{index}", "source_key": str(item["source_key"]), "target_key": str(item["target_key"]), "relation_type": str(item.get("relation_type", "relates_to"))[:50], "label": str(item.get("label", "related"))[:200], "evidence": str(item.get("evidence", ""))[:1000], "source_ordinal": valid_ordinals[0], "source_ordinals": valid_ordinals, "confidence": max(0, min(float(item.get("confidence", 0.7) or 0.7), 1))})
+    return result
+
+
+def make_preview(document: Document, chunks: list[DocumentChunk], analysis: dict[str, Any]) -> dict[str, Any]:
+    return {"document_id": document.public_id, "chunk_count": len(chunks), "analysis": analysis, "chunks": [{"id": chunk.public_id, "ordinal": chunk.ordinal, "start_char": chunk.start_char, "end_char": chunk.end_char, "text_preview": excerpt(chunk.text, 500)} for chunk in chunks], "existing_concept_matches": []}
+
+
+def fail_job(session: Session, job: IngestionJob, document: Document, code: str, message: str) -> None:
+    job.status, job.error_code, job.error_message, job.finished_at, job.updated_at = "failed", code, message, now(), now()
+    document.ingest_status, document.ingest_error_code, document.ingest_error_message, document.updated_at = "failed", code, message, now()
+    session.add(job); session.add(document); session.commit()
+
+
+def sync_document_fts(session: Session, document: Document) -> None:
+    connection = session.connection()
+    ensure_fts(connection)
+    connection.exec_driver_sql("DELETE FROM documents_fts WHERE public_id = ?", (document.public_id,))
+    if not document.deleted_at:
+        connection.exec_driver_sql("INSERT INTO documents_fts(title, summary, source_name, public_id) VALUES (?, ?, ?, ?)", (document.title, document.summary or "", document.source_name, document.public_id))
+
+
+def sync_all_fts(session: Session) -> None:
+    connection = session.connection()
+    ensure_fts(connection)
+    connection.exec_driver_sql("DELETE FROM documents_fts"); connection.exec_driver_sql("DELETE FROM chunks_fts"); connection.exec_driver_sql("DELETE FROM concepts_fts")
+    for document in session.exec(select(Document).where(Document.deleted_at.is_(None))).all(): connection.exec_driver_sql("INSERT INTO documents_fts VALUES (?, ?, ?, ?)", (document.title, document.summary or "", document.source_name, document.public_id))
+    for chunk in session.exec(select(DocumentChunk).join(Document).where(Document.deleted_at.is_(None))).all(): connection.exec_driver_sql("INSERT INTO chunks_fts VALUES (?, ?)", (chunk.text, chunk.public_id))
+    for concept in session.exec(select(Concept).where(Concept.deleted_at.is_(None))).all(): connection.exec_driver_sql("INSERT INTO concepts_fts VALUES (?, ?, ?, ?, ?, ?)", (concept.canonical_name, concept.korean_name or "", concept.english_name or "", concept.acronym or "", concept.description, concept.public_id))
+
+
+def search_local(session: Session, query: str, limit: int = 10) -> list[dict[str, Any]]:
+    stopwords = {"ê·¸ë¦¬ê³ ", "ëŒ€í•œ", "the", "and", "what", "which", "how"}
+    raw_terms = [term for term in re.findall(r"[A-Za-z0-9ê°€-íž£_-]{2,}", query) if term.lower() not in stopwords]
+    korean_particles = ("ì—ì„œ", "ìœ¼ë¡œ", "ë¶€í„°", "ê¹Œì§€", "ì—ê²Œ", "ì—ëŠ”", "ì€", "ëŠ”", "ì´", "ê°€", "ì„", "ë¥¼", "ì˜", "ë„", "ë¡œ", "ì™€", "ê³¼")
+    terms = []
+    for term in raw_terms:
+        terms.append(term)
+        if re.search(r"[ê°€-íž£]", term):
+            for particle in korean_particles:
+                if term.endswith(particle) and len(term) - len(particle) >= 2:
+                    stem = term[: -len(particle)]
+                    if stem not in terms:
+                        terms.append(stem)
+                    break
+    if not terms: return []
+    # Prefix matching keeps keyword search useful for inflected Korean/English tokens.
+    match = " OR ".join(f'{term.replace(chr(34), "")}*' for term in terms)
+    connection = session.connection()
+    ensure_fts(connection)
+    try:
+        doc_rows = connection.exec_driver_sql("SELECT public_id, bm25(documents_fts) AS rank FROM documents_fts WHERE documents_fts MATCH ? ORDER BY rank LIMIT ?", (match, limit)).fetchall()
+        chunk_rows = connection.exec_driver_sql("SELECT public_id, bm25(chunks_fts) AS rank FROM chunks_fts WHERE chunks_fts MATCH ? ORDER BY rank LIMIT ?", (match, limit)).fetchall()
+    except Exception:
+        doc_rows, chunk_rows = [], []
+    try:
+        concept_rows = connection.exec_driver_sql("SELECT public_id, bm25(concepts_fts) AS rank FROM concepts_fts WHERE concepts_fts MATCH ? ORDER BY rank LIMIT ?", (match, limit)).fetchall()
+    except Exception:
+        concept_rows = []
+    chunk_ids = {row[0] for row in chunk_rows}
+    chunks = session.exec(select(DocumentChunk).where(DocumentChunk.public_id.in_(chunk_ids))).all() if chunk_ids else []
+    chunk_by_id = {chunk.public_id: chunk for chunk in chunks}
+    doc_by_chunk = {chunk.public_id: session.get(Document, chunk.document_id) for chunk in chunks}
+    best_chunk_by_document = {}
+    scores = {row[0]: 1 / (1 + max(float(row[1]), 0)) for row in doc_rows}
+    for row in chunk_rows:
+        document = doc_by_chunk.get(row[0])
+        if document:
+            best_chunk_by_document.setdefault(document.public_id, chunk_by_id.get(row[0]))
+            scores[document.public_id] = max(scores.get(document.public_id, 0), 1 / (1 + max(float(row[1]), 0)))
+    documents = {document.public_id: document for document in session.exec(select(Document).where(Document.deleted_at.is_(None), Document.ingest_status == "ready")).all()}
+    results: dict[str, dict[str, Any]] = {}
+    for public_id, document in documents.items():
+        if public_id not in scores:
+            continue
+        chunk = best_chunk_by_document.get(public_id)
+        content = chunk.text if chunk else document.content
+        results[public_id] = {"document": document, "score": round(scores.get(public_id, 0.1), 4), "chunk": chunk, "content": content, "matched_terms": [term for term in terms if term.casefold() in content.casefold()]}
+
+    # The graph is also a retrieval index: a matched concept must lead through
+    # an evidence edge to the source chunk and document before it can ground an answer.
+    concept_ids = {row[0] for row in concept_rows}
+    if concept_ids:
+        concepts = session.exec(select(Concept).where(Concept.public_id.in_(concept_ids), Concept.deleted_at.is_(None))).all()
+        concept_by_id = {concept.id: concept for concept in concepts}
+        concept_nodes = session.exec(select(GraphNode).where(GraphNode.node_type == "concept", GraphNode.concept_id.in_(set(concept_by_id)))).all()
+        concept_node_ids = {node.id for node in concept_nodes}
+        edges = session.exec(select(GraphEdge).where(GraphEdge.source_node_id.in_(concept_node_ids) | GraphEdge.target_node_id.in_(concept_node_ids))).all()
+        concept_scores = {public_id: 1 / (1 + max(float(rank), 0)) for public_id, rank in concept_rows}
+        for edge in edges:
+            chunk = session.get(DocumentChunk, edge.evidence_chunk_id)
+            document = documents.get(session.get(Document, chunk.document_id).public_id) if chunk and session.get(Document, chunk.document_id) else None
+            if not document:
+                continue
+            concept_node = next((node for node in concept_nodes if node.id in {edge.source_node_id, edge.target_node_id}), None)
+            concept = concept_by_id.get(concept_node.concept_id) if concept_node else None
+            if not concept:
+                continue
+            score = round(max(results.get(document.public_id, {}).get("score", 0), concept_scores.get(concept.public_id, 0.1)), 4)
+            current = results.get(document.public_id)
+            if not current or score > current["score"]:
+                results[document.public_id] = {"document": document, "score": score, "chunk": chunk, "content": chunk.text, "matched_terms": [concept.canonical_name]}
+
+    return sorted(results.values(), key=lambda item: item["score"], reverse=True)[:limit]
