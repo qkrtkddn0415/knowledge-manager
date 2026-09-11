@@ -1,0 +1,5 @@
+import { Button, Input } from '../ui'
+
+export default function Topbar({ query, onQueryChange, onSearch, onAsk, onAdd, onHome, onHistory, onSettings }: { query: string; onQueryChange: (value: string) => void; onSearch: () => void; onAsk: () => void; onAdd: () => void; onHome: () => void; onHistory: () => void; onSettings: () => void }) {
+  return <header className="topbar"><button className="brand" onClick={onHome}><span className="brand-mark">✦</span><span>SECOND / BRAIN</span></button><div className="global-search"><span>⌕</span><Input value={query} onChange={(event) => onQueryChange(event.target.value)} onKeyDown={(event) => event.key === 'Enter' && onSearch()} placeholder="지식 검색 또는 질문 입력…" aria-label="지식 검색 또는 질문" /><button onClick={onSearch} aria-label="검색">SEARCH</button><button className="ask-trigger" onClick={onAsk}>ASK AI</button></div><div className="top-actions"><span className="private-status"><i /> PRIVATE SPACE</span><Button variant="primary" onClick={onAdd}>＋ 자료 추가</Button><Button variant="ghost" onClick={onHistory} aria-label="검색 히스토리">기록</Button><Button variant="ghost" onClick={onSettings} aria-label="설정">설정</Button></div></header>
+}

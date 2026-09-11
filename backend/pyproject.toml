@@ -1,0 +1,26 @@
+[project]
+name = "starter-backend"
+version = "0.1.0"
+description = "FastAPI backend starter with SQLModel and Alembic"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+    "fastapi==0.141.1",
+    "uvicorn[standard]==0.52.4",
+    "sqlmodel==0.0.42",
+    "alembic==1.19.2",
+    "pydantic-settings==2.15.0",
+    "openai==3.10.0",
+    "mcp[cli]==2.2.0",
+    "python-multipart==0.0.32",
+    "PyMuPDF>=1.26,<2",
+]
+
+[dependency-groups]
+dev = [
+    "httpx==0.28.1",
+    "pytest==9.1.1",
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]

@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "custom_tools": [
+    {
+      "type": "function",
+      "name": "search_knowledge",
+      "description": "Search the private Second Brain for up to three evidence chunks and their source documents and connected concepts.",
+      "strict": true,
+      "parameters": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "query": {"type": "string", "minLength": 1, "maxLength": 1000},
+          "document_ids": {"type": "array", "maxItems": 50, "items": {"type": "string", "maxLength": 64}},
+          "result_limit": {"type": "integer", "minimum": 1, "maximum": 3}
+        },
+        "required": ["query", "document_ids", "result_limit"]
+      }
+    },
+    {
+      "type": "function",
+      "name": "explore_node",
+      "description": "Explore selected knowledge graph nodes, connected nodes, relations, and non-overlapping source passages around aliases.",
+      "strict": true,
+      "parameters": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "node_ids": {"type": "array", "minItems": 1, "maxItems": 8, "items": {"type": "string", "maxLength": 64}},
+          "max_excerpts_per_node": {"type": "integer", "minimum": 1, "maximum": 12},
+          "context_chars": {"type": "integer", "minimum": 500, "maximum": 500}
+        },
+        "required": ["node_ids", "max_excerpts_per_node", "context_chars"]
+      }
+    }
+  ],
+  "builtin_tools": [
+    {"type": "web_search", "enabled_by_default": true}
+  ]
+}

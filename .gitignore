@@ -1,0 +1,33 @@
+# Python
+backend/.venv/
+backend/__pycache__/
+backend/**/__pycache__/
+backend/.pytest_cache/
+backend/.mypy_cache/
+backend/.ruff_cache/
+backend/.env
+backend/*.db
+backend/*.db-*
+
+# Node
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/*.zip
+frontend/.env
+*.log
+deploy/.env
+deploy/runtime/
+
+# Local data and agent state
+data/
+backend/data/
+database.db
+*.db-*
+.agents/
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,11 @@
+alembic==1.19.2
+fastapi==0.141.1
+httpx==0.28.1
+openai==3.10.0
+mcp[cli]==2.2.0
+pydantic-settings==2.15.0
+pytest==9.1.1
+python-multipart==0.0.32
+PyMuPDF>=1.26,<2
+sqlmodel==0.0.42
+uvicorn[standard]==0.52.4
